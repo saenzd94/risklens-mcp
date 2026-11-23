@@ -1,0 +1,1501 @@
+fecha,cliente_id,region,forma_pago,canal,monto
+2026-10-19,C018,Limón,Tarjeta,Web,20714.74
+2026-02-18,C027,Cartago,Tarjeta,Web,14940.72
+2026-08-17,C001,Alajuela,SINPE Móvil,WhatsApp,56050.69
+2026-04-21,C049,Cartago,Tarjeta,WhatsApp,11164.54
+2026-10-11,C064,Heredia,Efectivo,Tienda,60797.54
+2026-01-12,C038,Cartago,Tarjeta,Tienda,41872.01
+2026-03-03,C038,Puntarenas,Efectivo,WhatsApp,80909.36
+2026-09-17,C055,Limón,SINPE Móvil,Web,21702.49
+2026-10-29,C051,Limón,Tarjeta,Web,3855.56
+2026-03-30,C054,Alajuela,Efectivo,Tienda,18575.28
+2026-03-25,C100,Guanacaste,Transferencia,Web,21707.74
+2026-06-07,C006,Puntarenas,Transferencia,WhatsApp,8875.86
+2026-04-13,C002,Guanacaste,SINPE Móvil,Web,32781.94
+2026-06-30,C074,Cartago,Efectivo,WhatsApp,102338.6
+2026-07-16,C001,Limón,SINPE Móvil,WhatsApp,35566.8
+2026-09-04,C008,Limón,Efectivo,WhatsApp,78099.38
+2026-09-06,C053,Limón,Efectivo,Web,13936.73
+2026-11-10,C080,Alajuela,Transferencia,WhatsApp,7584.86
+2026-02-16,C111,Limón,Efectivo,Tienda,92485.26
+2026-01-09,C011,Cartago,Tarjeta,Web,14973.39
+2026-04-05,C080,Alajuela,Efectivo,Tienda,11935.16
+2026-05-20,C022,Puntarenas,Efectivo,Web,38265.44
+2026-01-13,C015,Alajuela,Transferencia,Web,19270.53
+2026-05-10,C014,Puntarenas,SINPE Móvil,WhatsApp,11785.52
+2026-03-24,C005,Cartago,Transferencia,WhatsApp,39677.44
+2026-04-25,C058,Guanacaste,Tarjeta,Web,74672.5
+2026-08-07,C085,San José,Efectivo,Tienda,3367.53
+2026-06-02,C040,Puntarenas,SINPE Móvil,Web,24403.7
+2026-01-20,C072,Guanacaste,SINPE Móvil,WhatsApp,16119.61
+2026-11-15,C112,Guanacaste,Tarjeta,Web,13955.67
+2026-08-10,C074,Guanacaste,SINPE Móvil,Web,4336.26
+2026-09-16,C038,Cartago,Tarjeta,Web,28494.79
+2026-01-10,C037,Heredia,SINPE Móvil,Web,58566.09
+2026-06-23,C018,Cartago,SINPE Móvil,Web,96299.29
+2026-10-08,C120,Alajuela,Transferencia,WhatsApp,5845.61
+2026-03-10,C011,Heredia,SINPE Móvil,WhatsApp,4292.62
+2026-09-17,C077,Limón,Efectivo,Web,17161.16
+2026-11-06,C031,Limón,Transferencia,Tienda,35512.28
+2026-01-21,C042,Cartago,Tarjeta,Web,43653.32
+2026-10-28,C079,Limón,Transferencia,Tienda,24962.68
+2026-05-17,C011,Alajuela,Efectivo,WhatsApp,23228.63
+2026-05-22,C115,San José,Tarjeta,Web,19485.65
+2026-05-04,C022,Heredia,Tarjeta,Web,54542.86
+2026-05-31,C070,Guanacaste,Efectivo,WhatsApp,21267.54
+2026-06-12,C084,San José,Tarjeta,Tienda,34796.56
+2026-06-10,C051,Cartago,Tarjeta,Tienda,7921.09
+2026-10-05,C115,Limón,Transferencia,WhatsApp,17287.65
+2026-06-07,C027,Heredia,SINPE Móvil,Web,9908.58
+2026-08-18,C097,San José,Efectivo,Tienda,17732.78
+2026-04-06,C042,Alajuela,Efectivo,Tienda,13375.06
+2026-11-02,C075,San José,SINPE Móvil,Tienda,5956.1
+2026-02-08,C010,San José,Tarjeta,Web,37683.84
+2026-03-20,C061,San José,Efectivo,Tienda,22879.7
+2026-03-18,C023,Heredia,Efectivo,Web,7252.04
+2026-11-05,C118,Alajuela,SINPE Móvil,Tienda,8607.58
+2026-11-16,C116,Limón,SINPE Móvil,Tienda,12128.87
+2026-05-07,C007,Alajuela,Tarjeta,WhatsApp,25525.67
+2026-10-03,C109,Cartago,Tarjeta,Web,38448.8
+2026-01-13,C063,Limón,Transferencia,WhatsApp,28864.41
+2026-05-13,C018,Limón,Efectivo,Web,24494.96
+2026-04-30,C012,Cartago,Tarjeta,Tienda,23835.32
+2026-08-13,C084,Puntarenas,SINPE Móvil,Tienda,9702.32
+2026-07-31,C029,Alajuela,Efectivo,WhatsApp,60981.8
+2026-03-23,C048,Guanacaste,SINPE Móvil,Web,14847.85
+2026-07-10,C071,Heredia,Transferencia,WhatsApp,29720.78
+2026-04-01,C049,Heredia,Efectivo,Web,8952.96
+2026-01-27,C097,Cartago,Transferencia,WhatsApp,29886.39
+2026-03-26,C109,Guanacaste,Tarjeta,WhatsApp,28019.94
+2026-02-12,C117,Heredia,Tarjeta,Web,41548.46
+2026-07-15,C109,Limón,Transferencia,Web,11135.57
+2026-11-15,C017,Cartago,SINPE Móvil,Tienda,17989.27
+2026-03-02,C117,Puntarenas,Efectivo,Web,5542.06
+2026-04-08,C001,Guanacaste,Transferencia,WhatsApp,53122.32
+2026-03-30,C027,Alajuela,SINPE Móvil,WhatsApp,12127.15
+2026-05-09,C097,Limón,Transferencia,Tienda,24892.07
+2026-03-04,C110,Limón,SINPE Móvil,WhatsApp,42361.98
+2026-02-25,C104,Limón,Tarjeta,Tienda,24255.4
+2026-03-11,C038,San José,Efectivo,WhatsApp,46392.27
+2026-07-02,C087,Limón,Efectivo,Tienda,14098.02
+2026-10-20,C044,Cartago,Tarjeta,WhatsApp,55739.0
+2026-01-02,C072,Alajuela,SINPE Móvil,Web,29332.71
+2026-06-06,C120,Puntarenas,SINPE Móvil,Web,31295.16
+2026-09-27,C047,San José,Transferencia,WhatsApp,18563.24
+2026-11-15,C111,Guanacaste,Tarjeta,Web,54384.92
+2026-07-28,C003,Puntarenas,SINPE Móvil,WhatsApp,41564.88
+2026-04-02,C035,Limón,Tarjeta,WhatsApp,44144.54
+2026-10-06,C088,Alajuela,SINPE Móvil,Web,53453.02
+2026-09-19,C060,San José,Efectivo,WhatsApp,5735.2
+2026-07-01,C009,San José,Transferencia,Tienda,4488.17
+2026-02-17,C021,Cartago,Efectivo,WhatsApp,12470.94
+2026-06-20,C031,Alajuela,Tarjeta,Tienda,33175.78
+2026-01-26,C072,Heredia,Efectivo,WhatsApp,24830.54
+2026-04-29,C095,Cartago,Transferencia,Tienda,21367.97
+2026-06-18,C079,Puntarenas,SINPE Móvil,Web,94073.55
+2026-08-10,C041,Limón,SINPE Móvil,Web,7061.5
+2026-10-24,C022,Cartago,SINPE Móvil,WhatsApp,68248.61
+2026-03-12,C021,Limón,SINPE Móvil,WhatsApp,19575.91
+2026-05-04,C052,San José,SINPE Móvil,WhatsApp,28772.77
+2026-07-23,C030,Alajuela,Transferencia,Tienda,65768.04
+2026-09-28,C064,Limón,Transferencia,Web,29978.5
+2026-03-30,C079,San José,SINPE Móvil,Web,11322.2
+2026-03-28,C097,Heredia,SINPE Móvil,Web,19491.42
+2026-08-20,C028,Puntarenas,Efectivo,Web,21902.13
+2026-02-10,C028,San José,Tarjeta,Tienda,45308.81
+2026-10-25,C050,Alajuela,SINPE Móvil,Web,58204.7
+2026-01-08,C004,Cartago,SINPE Móvil,WhatsApp,25191.11
+2026-03-08,C033,San José,Transferencia,WhatsApp,15489.59
+2026-04-08,C012,San José,Transferencia,WhatsApp,10894.73
+2026-04-09,C105,Puntarenas,Transferencia,Web,16009.12
+2026-05-05,C034,Heredia,Tarjeta,WhatsApp,94695.78
+2026-08-08,C045,Guanacaste,Tarjeta,Web,25321.95
+2026-10-02,C092,Cartago,Tarjeta,WhatsApp,9691.5
+2026-02-07,C097,Alajuela,SINPE Móvil,Tienda,49482.68
+2026-02-20,C048,Alajuela,Tarjeta,Tienda,23803.24
+2026-07-22,C017,Limón,Transferencia,Tienda,34367.16
+2026-06-16,C033,San José,Efectivo,Tienda,6381.96
+2026-07-14,C034,Limón,Tarjeta,WhatsApp,13790.17
+2026-09-15,C032,Guanacaste,SINPE Móvil,Web,71914.02
+2026-10-27,C051,Cartago,Tarjeta,Tienda,32201.35
+2026-10-25,C072,Puntarenas,Tarjeta,Web,33428.57
+2026-09-24,C050,Alajuela,Tarjeta,Web,13370.49
+2026-06-03,C006,Limón,Efectivo,Web,14363.57
+2026-09-24,C042,Guanacaste,Tarjeta,WhatsApp,10301.54
+2026-06-16,C094,Limón,Efectivo,WhatsApp,15997.02
+2026-07-14,C119,Limón,Tarjeta,WhatsApp,35522.56
+2026-09-09,C068,Guanacaste,Efectivo,Tienda,66119.12
+2026-07-09,C047,Cartago,Efectivo,Web,27023.64
+2026-03-27,C065,San José,SINPE Móvil,Web,39645.88
+2026-02-27,C117,Heredia,Transferencia,WhatsApp,52711.73
+2026-05-17,C070,Puntarenas,Tarjeta,Tienda,9053.73
+2026-02-10,C068,Limón,Tarjeta,Tienda,27939.97
+2026-08-10,C111,San José,Efectivo,Web,32955.73
+2026-04-13,C115,Guanacaste,Transferencia,Tienda,16067.92
+2026-04-07,C070,Limón,Transferencia,WhatsApp,66364.57
+2026-09-30,C002,Limón,Transferencia,WhatsApp,30470.37
+2026-10-27,C075,Cartago,Tarjeta,Web,53631.19
+2026-06-03,C025,Puntarenas,Tarjeta,WhatsApp,10427.73
+2026-06-11,C114,Limón,Efectivo,WhatsApp,2941.79
+2026-09-23,C119,Cartago,Efectivo,Web,12699.49
+2026-03-13,C076,Guanacaste,SINPE Móvil,Web,46470.11
+2026-08-04,C048,Cartago,Efectivo,WhatsApp,113835.63
+2026-02-16,C116,San José,Tarjeta,Web,14247.12
+2026-07-10,C101,Puntarenas,Transferencia,Web,10105.55
+2026-07-01,C062,Heredia,Transferencia,Tienda,26172.33
+2026-05-13,C053,Guanacaste,Efectivo,WhatsApp,18963.3
+2026-09-06,C043,Heredia,Transferencia,Web,30531.9
+2026-04-16,C017,Heredia,SINPE Móvil,WhatsApp,12332.98
+2026-04-06,C052,Limón,Tarjeta,Tienda,2449.2
+2026-10-09,C007,Heredia,Transferencia,Web,97598.48
+2026-03-02,C095,Alajuela,Efectivo,Tienda,19250.87
+2026-01-25,C110,Limón,SINPE Móvil,WhatsApp,96956.53
+2026-08-18,C016,Alajuela,Transferencia,Web,9121.79
+2026-04-14,C116,Heredia,Efectivo,Web,32352.57
+2026-10-06,C082,Heredia,Efectivo,Web,35660.46
+2026-05-17,C114,San José,Transferencia,Web,13180.24
+2026-05-07,C091,Cartago,SINPE Móvil,Tienda,12523.24
+2026-11-03,C081,San José,SINPE Móvil,Web,12006.74
+2026-05-17,C040,Cartago,SINPE Móvil,Web,15631.08
+2026-04-01,C044,Guanacaste,SINPE Móvil,WhatsApp,121160.04
+2026-03-18,C069,San José,Efectivo,WhatsApp,45939.66
+2026-04-20,C104,Alajuela,Transferencia,Web,16857.15
+2026-05-12,C018,Heredia,Tarjeta,WhatsApp,26353.7
+2026-03-30,C073,Puntarenas,Tarjeta,Tienda,26230.91
+2026-06-07,C085,Cartago,Efectivo,Tienda,38836.81
+2026-04-25,C096,Alajuela,Efectivo,Web,29384.87
+2026-03-04,C003,Alajuela,Efectivo,Tienda,6979.61
+2026-02-09,C045,San José,Tarjeta,Web,15619.94
+2026-07-05,C007,San José,Tarjeta,Tienda,55856.35
+2026-05-04,C093,San José,Efectivo,Web,31318.28
+2026-05-19,C119,Cartago,Tarjeta,WhatsApp,32306.48
+2026-10-16,C061,Cartago,Transferencia,Web,97581.75
+2026-03-10,C071,San José,Tarjeta,Tienda,57877.35
+2026-08-31,C034,Heredia,Transferencia,WhatsApp,9246.55
+2026-10-06,C084,Alajuela,Tarjeta,WhatsApp,9612.74
+2026-02-08,C020,Guanacaste,SINPE Móvil,WhatsApp,42782.91
+2026-06-21,C108,Alajuela,Efectivo,Tienda,47535.06
+2026-03-16,C077,Alajuela,Efectivo,WhatsApp,44824.01
+2026-10-03,C002,San José,SINPE Móvil,Web,16462.59
+2026-07-09,C036,Cartago,Transferencia,WhatsApp,20787.08
+2026-01-20,C100,Puntarenas,Tarjeta,Tienda,66404.48
+2026-09-18,C068,Limón,Efectivo,WhatsApp,112012.66
+2026-08-31,C103,Limón,SINPE Móvil,WhatsApp,9740.67
+2026-03-23,C046,San José,Tarjeta,WhatsApp,2626.76
+2026-05-10,C045,Puntarenas,Tarjeta,WhatsApp,19085.6
+2026-06-24,C038,Cartago,SINPE Móvil,WhatsApp,26261.82
+2026-02-28,C044,Guanacaste,SINPE Móvil,WhatsApp,32280.21
+2026-03-04,C044,Guanacaste,Tarjeta,Web,53321.13
+2026-03-31,C107,Cartago,SINPE Móvil,Tienda,16141.96
+2026-08-25,C087,Puntarenas,Transferencia,Web,21065.29
+2026-04-10,C093,Cartago,Transferencia,Web,25199.36
+2026-05-17,C119,Limón,SINPE Móvil,Tienda,7014.65
+2026-01-14,C103,Puntarenas,Tarjeta,Tienda,20115.19
+2026-05-28,C065,Heredia,SINPE Móvil,WhatsApp,7373.04
+2026-04-27,C082,Guanacaste,Transferencia,Tienda,23877.33
+2026-03-23,C055,Puntarenas,SINPE Móvil,Web,28035.69
+2026-10-13,C069,Heredia,SINPE Móvil,Web,28017.72
+2026-05-01,C055,Limón,Tarjeta,WhatsApp,61614.29
+2026-11-10,C089,Puntarenas,Tarjeta,Tienda,16962.94
+2026-01-25,C073,Cartago,Tarjeta,WhatsApp,6021.63
+2026-01-07,C100,San José,Efectivo,Web,13080.21
+2026-03-10,C077,Guanacaste,Efectivo,WhatsApp,55946.23
+2026-07-22,C090,Puntarenas,Transferencia,Tienda,21834.35
+2026-03-19,C119,Alajuela,Efectivo,Tienda,61007.66
+2026-07-04,C094,Alajuela,SINPE Móvil,Web,13137.64
+2026-10-17,C036,Cartago,Tarjeta,Tienda,14695.95
+2026-10-03,C075,Guanacaste,SINPE Móvil,WhatsApp,10317.15
+2026-03-13,C074,Guanacaste,Transferencia,Web,30225.25
+2026-02-09,C120,Heredia,Tarjeta,Tienda,38087.17
+2026-03-12,C088,Guanacaste,SINPE Móvil,WhatsApp,23320.18
+2026-07-15,C031,Heredia,Efectivo,Tienda,6521.64
+2026-06-02,C029,Puntarenas,SINPE Móvil,Web,21692.78
+2026-06-03,C066,Heredia,Transferencia,Tienda,4834.96
+2026-02-22,C076,Guanacaste,Efectivo,Web,15410.57
+2026-06-11,C107,Heredia,SINPE Móvil,WhatsApp,36234.3
+2026-10-28,C056,Heredia,SINPE Móvil,WhatsApp,22293.79
+2026-04-19,C116,Limón,Transferencia,WhatsApp,32799.2
+2026-03-03,C001,Limón,SINPE Móvil,WhatsApp,15944.65
+2026-04-29,C079,Alajuela,Tarjeta,WhatsApp,5518.25
+2026-09-15,C071,Heredia,Transferencia,Web,41671.91
+2026-09-10,C035,San José,SINPE Móvil,Tienda,25580.16
+2026-09-08,C006,Heredia,Transferencia,WhatsApp,44434.28
+2026-05-05,C117,San José,Tarjeta,WhatsApp,38741.58
+2026-11-01,C023,Guanacaste,SINPE Móvil,WhatsApp,17201.65
+2026-07-04,C030,Puntarenas,Tarjeta,Web,61611.9
+2026-11-09,C107,Heredia,SINPE Móvil,Web,19898.68
+2026-10-17,C009,Cartago,Tarjeta,Web,30671.84
+2026-06-30,C116,Cartago,Tarjeta,WhatsApp,8498.09
+2026-06-12,C096,Limón,SINPE Móvil,WhatsApp,50142.61
+2026-02-03,C036,Limón,Efectivo,Web,16130.99
+2026-10-22,C004,Guanacaste,Tarjeta,Tienda,24410.88
+2026-06-20,C116,Alajuela,Efectivo,WhatsApp,7987.19
+2026-09-06,C010,Puntarenas,Tarjeta,WhatsApp,19002.57
+2026-10-06,C104,San José,SINPE Móvil,Web,17612.13
+2026-03-17,C075,Guanacaste,Tarjeta,Web,13219.15
+2026-07-04,C106,Alajuela,Efectivo,WhatsApp,11796.67
+2026-05-07,C099,Limón,Efectivo,Web,25906.34
+2026-02-12,C080,San José,SINPE Móvil,Web,19237.11
+2026-05-15,C071,Heredia,SINPE Móvil,Tienda,12225.83
+2026-09-20,C095,Alajuela,SINPE Móvil,WhatsApp,9397.31
+2026-06-01,C119,Limón,SINPE Móvil,Tienda,19444.85
+2026-01-20,C096,San José,Efectivo,Web,128910.67
+2026-04-05,C055,Heredia,SINPE Móvil,Tienda,22714.47
+2026-04-11,C059,Limón,Tarjeta,Web,57191.25
+2026-07-01,C079,Heredia,Tarjeta,Tienda,10346.07
+2026-04-28,C002,Limón,Tarjeta,WhatsApp,23129.91
+2026-05-05,C037,Cartago,Efectivo,Web,14360.53
+2026-11-01,C025,Heredia,SINPE Móvil,WhatsApp,29397.67
+2026-01-12,C047,Cartago,Tarjeta,Tienda,36959.12
+2026-08-10,C080,Limón,Efectivo,Web,8036.94
+2026-09-21,C090,Limón,Transferencia,WhatsApp,26746.82
+2026-09-02,C065,Guanacaste,Transferencia,WhatsApp,17403.24
+2026-09-26,C087,Alajuela,Transferencia,WhatsApp,23699.06
+2026-11-06,C002,Limón,Tarjeta,Web,20122.07
+2026-08-16,C066,Heredia,Transferencia,Web,45247.98
+2026-08-12,C050,San José,Tarjeta,Web,10611.33
+2026-06-06,C007,Cartago,Tarjeta,Web,12827.3
+2026-01-26,C101,Heredia,Tarjeta,Web,27694.68
+2026-05-31,C089,Cartago,Efectivo,Tienda,63869.64
+2026-09-16,C097,Puntarenas,Efectivo,Web,13515.57
+2026-08-25,C068,Limón,Tarjeta,Tienda,18679.09
+2026-11-13,C006,Heredia,SINPE Móvil,Tienda,35289.46
+2026-03-19,C080,Puntarenas,Efectivo,WhatsApp,35214.97
+2026-06-07,C092,Cartago,Transferencia,Tienda,28233.41
+2026-08-12,C048,Guanacaste,Efectivo,WhatsApp,17464.65
+2026-10-26,C015,Puntarenas,Efectivo,WhatsApp,32576.63
+2026-06-09,C108,Limón,Tarjeta,WhatsApp,21540.53
+2026-11-07,C112,Puntarenas,Efectivo,Web,17553.42
+2026-11-02,C014,Guanacaste,SINPE Móvil,Tienda,16319.62
+2026-02-04,C114,Heredia,Tarjeta,WhatsApp,12282.16
+2026-09-25,C071,Alajuela,SINPE Móvil,Tienda,9829.98
+2026-01-19,C058,Alajuela,Efectivo,Web,6681.08
+2026-02-17,C065,Limón,SINPE Móvil,Tienda,12802.3
+2026-02-20,C104,San José,Efectivo,WhatsApp,14080.65
+2026-02-15,C076,Cartago,SINPE Móvil,Tienda,28473.54
+2026-01-28,C026,Puntarenas,Tarjeta,Tienda,12853.83
+2026-09-27,C033,Cartago,SINPE Móvil,WhatsApp,9340.06
+2026-06-16,C025,Alajuela,Efectivo,Web,49819.61
+2026-07-17,C087,San José,Transferencia,Tienda,53761.46
+2026-04-02,C044,Guanacaste,Tarjeta,Tienda,68257.26
+2026-06-21,C118,Limón,Efectivo,Web,20081.45
+2026-08-30,C051,Guanacaste,Tarjeta,Web,11911.7
+2026-03-06,C073,Limón,SINPE Móvil,Tienda,18848.23
+2026-03-24,C018,San José,Efectivo,Tienda,16503.14
+2026-08-31,C036,Alajuela,Tarjeta,Web,10570.32
+2026-02-25,C058,Limón,SINPE Móvil,WhatsApp,9871.15
+2026-10-01,C062,San José,Tarjeta,WhatsApp,36665.28
+2026-07-01,C120,Limón,Efectivo,Web,28553.47
+2026-01-17,C049,Alajuela,SINPE Móvil,Tienda,14801.41
+2026-01-26,C047,Heredia,Efectivo,WhatsApp,24754.36
+2026-04-25,C018,Alajuela,Efectivo,Tienda,27045.81
+2026-10-04,C114,Guanacaste,Transferencia,Web,27209.06
+2026-07-02,C066,Heredia,Transferencia,Tienda,14808.29
+2026-03-10,C019,Limón,SINPE Móvil,Tienda,10671.63
+2026-07-04,C007,San José,SINPE Móvil,WhatsApp,30985.17
+2026-04-11,C057,Guanacaste,Efectivo,Tienda,41618.2
+2026-01-10,C086,Heredia,Efectivo,Web,45437.81
+2026-07-07,C110,Cartago,Efectivo,Tienda,21308.18
+2026-10-18,C086,Puntarenas,Efectivo,WhatsApp,6929.81
+2026-09-04,C012,Alajuela,Transferencia,Tienda,29600.69
+2026-06-17,C024,Heredia,Efectivo,Web,40680.63
+2026-09-07,C040,Cartago,Tarjeta,Web,11459.98
+2026-08-09,C015,Cartago,SINPE Móvil,Web,12461.65
+2026-09-11,C073,Guanacaste,Efectivo,WhatsApp,14694.46
+2026-06-30,C019,San José,Transferencia,Web,23642.45
+2026-04-09,C112,Cartago,Transferencia,Tienda,5949.37
+2026-02-10,C032,Puntarenas,Tarjeta,Tienda,23162.2
+2026-06-17,C062,Guanacaste,SINPE Móvil,WhatsApp,35399.77
+2026-10-10,C050,Puntarenas,Transferencia,Tienda,27023.07
+2026-07-08,C108,Limón,Efectivo,Web,7986.47
+2026-06-05,C070,Limón,Tarjeta,Web,38205.59
+2026-03-10,C021,Cartago,Tarjeta,Web,9140.39
+2026-10-22,C002,Heredia,Tarjeta,Web,33932.65
+2026-08-27,C052,San José,Efectivo,Web,12118.13
+2026-04-03,C017,Limón,Efectivo,Tienda,25093.32
+2026-09-19,C059,Guanacaste,Efectivo,Tienda,23283.56
+2026-10-31,C040,Limón,SINPE Móvil,Web,46593.44
+2026-06-24,C105,San José,Transferencia,Web,40159.66
+2026-11-13,C023,Cartago,Transferencia,WhatsApp,13625.27
+2026-02-13,C007,Puntarenas,Tarjeta,Tienda,23408.15
+2026-04-04,C051,Cartago,Transferencia,WhatsApp,19682.39
+2026-06-28,C117,Limón,SINPE Móvil,WhatsApp,24934.3
+2026-08-15,C041,Alajuela,Tarjeta,Web,6962.39
+2026-07-29,C120,Cartago,Efectivo,WhatsApp,8725.77
+2026-08-07,C111,Guanacaste,Transferencia,WhatsApp,12530.01
+2026-11-09,C018,Heredia,SINPE Móvil,Tienda,100292.12
+2026-02-22,C020,Puntarenas,Tarjeta,Web,17088.43
+2026-07-23,C036,San José,Transferencia,Web,33723.77
+2026-06-05,C092,Puntarenas,Transferencia,Web,43246.03
+2026-09-08,C013,Heredia,Transferencia,Tienda,19484.98
+2026-06-13,C069,Alajuela,Transferencia,WhatsApp,27506.4
+2026-10-25,C093,Alajuela,Transferencia,Web,21263.25
+2026-04-22,C069,Heredia,SINPE Móvil,WhatsApp,7984.19
+2026-01-27,C032,Limón,Efectivo,WhatsApp,37446.22
+2026-06-26,C004,Alajuela,Efectivo,WhatsApp,32382.17
+2026-04-18,C053,Limón,Efectivo,Tienda,10939.96
+2026-07-19,C002,Puntarenas,Efectivo,WhatsApp,60640.13
+2026-04-24,C115,Heredia,Tarjeta,WhatsApp,16158.15
+2026-05-31,C112,San José,Transferencia,Tienda,35123.18
+2026-03-20,C053,San José,SINPE Móvil,Web,9253.73
+2026-09-25,C070,Alajuela,SINPE Móvil,Tienda,6266.26
+2026-08-09,C017,Heredia,Efectivo,WhatsApp,85308.06
+2026-11-01,C041,Heredia,Tarjeta,Web,36141.8
+2026-09-12,C089,Guanacaste,Transferencia,Tienda,24433.89
+2026-04-18,C019,Alajuela,SINPE Móvil,Web,50477.55
+2026-07-16,C009,Cartago,Tarjeta,WhatsApp,20633.68
+2026-04-16,C031,Puntarenas,Tarjeta,WhatsApp,29218.13
+2026-09-23,C105,Heredia,Tarjeta,Tienda,144686.75
+2026-07-24,C015,Alajuela,Tarjeta,Web,24091.84
+2026-05-24,C086,Heredia,Transferencia,Web,16595.96
+2026-04-16,C071,Heredia,Tarjeta,Tienda,33796.86
+2026-08-14,C079,Guanacaste,Tarjeta,Tienda,22906.36
+2026-05-23,C110,Cartago,SINPE Móvil,Tienda,48504.36
+2026-08-01,C116,Limón,Efectivo,WhatsApp,43826.84
+2026-09-25,C017,Alajuela,Tarjeta,Web,27246.8
+2026-01-10,C020,Alajuela,SINPE Móvil,Tienda,12697.12
+2026-09-05,C004,San José,Transferencia,Tienda,19843.63
+2026-03-07,C013,Guanacaste,Transferencia,WhatsApp,8229.36
+2026-08-13,C041,San José,Tarjeta,Tienda,56423.56
+2026-02-23,C048,San José,Efectivo,Tienda,42350.21
+2026-10-30,C089,San José,Tarjeta,WhatsApp,1540.55
+2026-06-07,C012,Cartago,Tarjeta,WhatsApp,19171.56
+2026-01-21,C081,Puntarenas,Tarjeta,Web,64589.11
+2026-05-18,C029,Limón,Efectivo,Web,20236.8
+2026-03-30,C066,Puntarenas,Transferencia,Web,11117.79
+2026-09-19,C042,Puntarenas,Transferencia,WhatsApp,25255.38
+2026-04-23,C097,Alajuela,Tarjeta,Tienda,36271.49
+2026-05-13,C047,Limón,Efectivo,WhatsApp,40304.51
+2026-03-12,C065,Cartago,Tarjeta,Web,19994.93
+2026-10-05,C042,Alajuela,SINPE Móvil,WhatsApp,58704.6
+2026-08-25,C009,Alajuela,Tarjeta,WhatsApp,40336.8
+2026-02-20,C015,Puntarenas,Efectivo,WhatsApp,37804.73
+2026-08-18,C074,San José,Transferencia,WhatsApp,4027.79
+2026-04-07,C006,Heredia,Tarjeta,WhatsApp,24558.46
+2026-04-13,C101,Heredia,SINPE Móvil,Tienda,11482.6
+2026-08-11,C073,Alajuela,SINPE Móvil,Web,25384.82
+2026-11-02,C110,Alajuela,Tarjeta,Tienda,1512.32
+2026-09-01,C108,Cartago,Transferencia,Tienda,3428.0
+2026-08-08,C005,Limón,Transferencia,Web,76006.31
+2026-04-02,C019,Limón,SINPE Móvil,Tienda,7528.62
+2026-04-22,C105,Heredia,Efectivo,Tienda,22747.45
+2026-11-10,C088,San José,Transferencia,Web,4560.63
+2026-04-17,C038,Limón,SINPE Móvil,WhatsApp,38400.36
+2026-07-15,C101,Cartago,Tarjeta,Tienda,10648.36
+2026-06-01,C013,Puntarenas,Transferencia,Tienda,22570.22
+2026-09-09,C032,Guanacaste,Tarjeta,Tienda,21665.24
+2026-11-16,C077,Cartago,Transferencia,WhatsApp,7421.21
+2026-03-14,C112,Cartago,SINPE Móvil,Tienda,10486.3
+2026-02-18,C082,Heredia,Efectivo,Web,26318.6
+2026-02-24,C107,Alajuela,SINPE Móvil,WhatsApp,84892.45
+2026-01-13,C087,Guanacaste,Tarjeta,Web,17123.19
+2026-03-13,C037,Limón,Tarjeta,Web,34704.01
+2026-10-26,C062,Puntarenas,SINPE Móvil,WhatsApp,78513.55
+2026-04-30,C108,Guanacaste,Tarjeta,Web,44623.52
+2026-05-08,C011,Puntarenas,Tarjeta,Web,5076.39
+2026-01-22,C045,San José,Tarjeta,Tienda,26371.7
+2026-10-03,C012,Cartago,Efectivo,Web,39729.11
+2026-07-01,C081,Guanacaste,SINPE Móvil,Web,40860.28
+2026-06-06,C040,Limón,Efectivo,WhatsApp,17955.52
+2026-04-28,C101,Heredia,SINPE Móvil,Tienda,8532.32
+2026-03-26,C018,Limón,Tarjeta,Web,12956.63
+2026-01-20,C021,Cartago,SINPE Móvil,Web,83282.56
+2026-04-23,C040,Puntarenas,Efectivo,WhatsApp,17310.84
+2026-04-29,C106,San José,Transferencia,WhatsApp,50572.98
+2026-03-27,C077,Cartago,Transferencia,WhatsApp,12728.11
+2026-06-07,C038,Alajuela,Efectivo,Web,7632.05
+2026-02-28,C039,Heredia,Tarjeta,Tienda,6385.28
+2026-01-14,C114,Cartago,Tarjeta,WhatsApp,10797.92
+2026-09-30,C108,San José,SINPE Móvil,Tienda,12301.56
+2026-10-04,C067,Alajuela,SINPE Móvil,Web,10682.91
+2026-07-26,C112,Guanacaste,Transferencia,Web,24328.19
+2026-04-17,C080,Guanacaste,Tarjeta,WhatsApp,8945.64
+2026-06-13,C029,Cartago,Tarjeta,Web,47578.63
+2026-09-15,C107,Limón,Tarjeta,WhatsApp,5233.91
+2026-07-19,C070,Guanacaste,Efectivo,WhatsApp,24784.62
+2026-10-01,C067,Heredia,SINPE Móvil,Tienda,13698.7
+2026-07-26,C085,Alajuela,Tarjeta,Tienda,21124.8
+2026-04-22,C105,Guanacaste,Transferencia,WhatsApp,127454.56
+2026-03-07,C009,Alajuela,Transferencia,Web,22617.98
+2026-10-26,C105,Heredia,Transferencia,Web,56457.76
+2026-10-17,C103,Heredia,Transferencia,WhatsApp,40621.88
+2026-11-04,C112,Puntarenas,Efectivo,Tienda,15216.95
+2026-02-26,C059,Puntarenas,SINPE Móvil,Web,17591.6
+2026-01-19,C043,Alajuela,Efectivo,Tienda,26184.15
+2026-08-15,C040,Puntarenas,SINPE Móvil,Web,22069.7
+2026-01-13,C034,Guanacaste,Tarjeta,Web,36669.43
+2026-05-31,C029,Puntarenas,Tarjeta,Tienda,19898.39
+2026-08-20,C105,Limón,Transferencia,WhatsApp,85062.65
+2026-09-08,C073,Guanacaste,Tarjeta,WhatsApp,8748.48
+2026-09-02,C069,Guanacaste,Efectivo,Tienda,20041.97
+2026-04-26,C109,Alajuela,Tarjeta,Tienda,19892.88
+2026-04-02,C020,Heredia,Tarjeta,Web,8715.44
+2026-10-03,C059,Limón,SINPE Móvil,Tienda,39954.52
+2026-05-12,C120,Puntarenas,Transferencia,Tienda,71425.13
+2026-07-13,C092,Cartago,Transferencia,WhatsApp,18359.61
+2026-01-13,C073,San José,Transferencia,WhatsApp,33169.74
+2026-03-24,C056,Limón,SINPE Móvil,Web,14032.25
+2026-08-22,C091,Limón,Transferencia,WhatsApp,17624.67
+2026-10-06,C070,Limón,SINPE Móvil,Web,38257.86
+2026-03-23,C003,Limón,Transferencia,Tienda,14274.01
+2026-03-30,C008,San José,Tarjeta,Web,26785.56
+2026-01-13,C101,San José,Efectivo,Tienda,31656.22
+2026-04-17,C083,Alajuela,Transferencia,Tienda,15922.99
+2026-07-19,C049,Alajuela,Tarjeta,Tienda,48056.37
+2026-08-07,C045,Cartago,Transferencia,WhatsApp,15103.24
+2026-06-19,C007,Alajuela,Transferencia,Tienda,52587.73
+2026-10-22,C041,Heredia,SINPE Móvil,WhatsApp,100446.78
+2026-04-15,C069,Cartago,SINPE Móvil,Web,134909.92
+2026-03-24,C092,Limón,SINPE Móvil,Web,3652.41
+2026-07-24,C083,Cartago,Transferencia,Web,29429.08
+2026-01-13,C010,Alajuela,SINPE Móvil,Tienda,11484.21
+2026-10-29,C066,Alajuela,Transferencia,WhatsApp,43581.04
+2026-10-12,C118,Puntarenas,Transferencia,Tienda,12844.43
+2026-07-25,C059,Puntarenas,Efectivo,WhatsApp,13016.71
+2026-07-22,C014,Cartago,SINPE Móvil,Tienda,34632.16
+2026-11-06,C088,San José,Transferencia,WhatsApp,8694.37
+2026-01-09,C085,Puntarenas,Transferencia,Web,35923.55
+2026-07-20,C041,Puntarenas,Tarjeta,WhatsApp,47871.25
+2026-02-19,C088,Cartago,Transferencia,WhatsApp,6702.63
+2026-01-09,C113,San José,Transferencia,Web,4120.65
+2026-05-27,C019,Guanacaste,Transferencia,WhatsApp,7584.89
+2026-05-31,C093,Guanacaste,Efectivo,WhatsApp,67119.78
+2026-10-04,C051,Guanacaste,Transferencia,Tienda,14160.49
+2026-10-12,C074,Puntarenas,SINPE Móvil,WhatsApp,30200.31
+2026-07-20,C034,Cartago,Tarjeta,WhatsApp,32559.57
+2026-05-18,C082,Cartago,Efectivo,Tienda,4488.34
+2026-02-24,C102,Cartago,SINPE Móvil,Web,13814.45
+2026-02-10,C029,San José,Tarjeta,WhatsApp,7554.52
+2026-06-27,C105,San José,Tarjeta,Web,37217.6
+2026-09-08,C074,Limón,SINPE Móvil,Web,46605.02
+2026-10-17,C066,Puntarenas,SINPE Móvil,Web,23027.86
+2026-01-26,C081,San José,Efectivo,Tienda,52374.41
+2026-06-06,C071,Guanacaste,Efectivo,Web,9373.71
+2026-04-25,C083,Alajuela,SINPE Móvil,WhatsApp,22203.08
+2026-07-07,C004,Limón,Transferencia,Tienda,12915.5
+2026-04-19,C033,Alajuela,SINPE Móvil,WhatsApp,8217.45
+2026-09-05,C030,Alajuela,SINPE Móvil,Web,33030.19
+2026-08-14,C080,San José,Efectivo,Tienda,25158.32
+2026-04-12,C041,Heredia,SINPE Móvil,WhatsApp,12808.09
+2026-01-01,C112,Cartago,SINPE Móvil,Web,32839.52
+2026-05-22,C103,San José,SINPE Móvil,Tienda,19571.33
+2026-08-14,C086,Limón,SINPE Móvil,Tienda,11899.15
+2026-06-17,C091,Alajuela,Efectivo,WhatsApp,11575.87
+2026-11-02,C100,Guanacaste,Tarjeta,Web,85531.43
+2026-04-28,C034,San José,Transferencia,WhatsApp,97148.1
+2026-01-03,C014,Cartago,Efectivo,WhatsApp,7051.7
+2026-10-29,C044,Limón,Efectivo,Web,35645.03
+2026-11-11,C046,San José,Transferencia,Tienda,80682.25
+2026-05-25,C099,Puntarenas,Tarjeta,Tienda,304152.17
+2026-11-15,C022,Limón,SINPE Móvil,WhatsApp,19575.12
+2026-11-15,C052,San José,Tarjeta,Web,6945.7
+2026-08-31,C108,Puntarenas,Transferencia,Web,28021.87
+2026-09-10,C092,Heredia,Efectivo,WhatsApp,15837.17
+2026-09-21,C106,Alajuela,Transferencia,Tienda,18354.75
+2026-05-23,C027,San José,Efectivo,WhatsApp,85048.67
+2026-06-03,C064,Alajuela,SINPE Móvil,Web,56293.78
+2026-09-11,C085,Puntarenas,SINPE Móvil,Web,56809.08
+2026-06-06,C067,San José,Transferencia,Tienda,12464.14
+2026-08-11,C067,Puntarenas,SINPE Móvil,WhatsApp,9329.03
+2026-08-16,C084,San José,SINPE Móvil,WhatsApp,8854.88
+2026-04-18,C107,Limón,Transferencia,Web,26527.6
+2026-07-19,C064,Limón,Tarjeta,Web,9883.7
+2026-10-28,C054,Guanacaste,Transferencia,WhatsApp,9569.16
+2026-06-22,C012,Limón,Transferencia,WhatsApp,25398.94
+2026-02-06,C063,Limón,Transferencia,WhatsApp,18156.97
+2026-05-25,C001,San José,Efectivo,Tienda,12233.53
+2026-08-11,C058,Alajuela,Tarjeta,Web,47041.54
+2026-05-11,C105,Guanacaste,SINPE Móvil,Tienda,7738.97
+2026-10-18,C002,Guanacaste,Efectivo,Tienda,35287.27
+2026-03-24,C033,Guanacaste,SINPE Móvil,Tienda,4939.84
+2026-07-13,C074,Guanacaste,Tarjeta,Tienda,36279.25
+2026-11-12,C098,Limón,SINPE Móvil,Tienda,97873.43
+2026-08-01,C084,Heredia,SINPE Móvil,Tienda,7920.88
+2026-06-21,C070,Limón,Efectivo,Tienda,22312.53
+2026-05-07,C050,Puntarenas,Efectivo,WhatsApp,5898.04
+2026-10-24,C047,Puntarenas,Efectivo,WhatsApp,51592.58
+2026-10-02,C025,Puntarenas,Tarjeta,Tienda,13841.06
+2026-04-23,C042,Heredia,Tarjeta,WhatsApp,13067.3
+2026-05-14,C028,Cartago,Tarjeta,Tienda,130784.42
+2026-06-04,C056,Limón,Efectivo,Web,39899.0
+2026-05-27,C026,Alajuela,Efectivo,Web,46738.8
+2026-03-14,C046,Cartago,Tarjeta,Tienda,5101.05
+2026-08-21,C027,Limón,Efectivo,Tienda,2899.91
+2026-11-11,C107,Cartago,Transferencia,Web,18667.43
+2026-09-06,C078,Limón,SINPE Móvil,WhatsApp,18917.87
+2026-02-19,C114,San José,SINPE Móvil,WhatsApp,15488.66
+2026-07-15,C055,San José,Transferencia,Tienda,19656.77
+2026-09-02,C030,Cartago,SINPE Móvil,WhatsApp,5866.63
+2026-06-27,C089,Alajuela,Transferencia,Tienda,24499.47
+2026-04-12,C065,Puntarenas,SINPE Móvil,Tienda,23827.83
+2026-04-20,C037,San José,Efectivo,WhatsApp,29162.45
+2026-03-22,C092,Guanacaste,Transferencia,Web,33484.84
+2026-04-09,C116,Limón,SINPE Móvil,WhatsApp,13056.95
+2026-09-08,C070,Heredia,Tarjeta,Web,15052.27
+2026-05-06,C020,Heredia,SINPE Móvil,WhatsApp,15474.19
+2026-10-21,C099,Alajuela,Tarjeta,Web,23093.06
+2026-08-29,C073,Cartago,SINPE Móvil,Tienda,23952.63
+2026-08-11,C114,Puntarenas,Transferencia,Web,6857.7
+2026-06-20,C051,Puntarenas,SINPE Móvil,Tienda,13655.39
+2026-08-27,C021,Guanacaste,Efectivo,Web,12204.21
+2026-10-02,C062,Alajuela,SINPE Móvil,Tienda,27135.65
+2026-02-15,C107,Puntarenas,SINPE Móvil,Web,23162.05
+2026-09-10,C039,Puntarenas,Tarjeta,Web,5721.85
+2026-06-03,C040,Guanacaste,SINPE Móvil,Web,16048.55
+2026-03-28,C014,Guanacaste,Tarjeta,WhatsApp,18157.49
+2026-01-09,C107,Guanacaste,Transferencia,Web,6195.13
+2026-11-01,C004,Puntarenas,Transferencia,Web,82233.72
+2026-10-14,C002,Puntarenas,Tarjeta,WhatsApp,97956.99
+2026-01-19,C041,Limón,SINPE Móvil,Web,38947.93
+2026-03-15,C019,Alajuela,Transferencia,WhatsApp,34106.62
+2026-07-07,C062,Heredia,Tarjeta,WhatsApp,10627.06
+2026-09-02,C119,Limón,SINPE Móvil,Tienda,24268.68
+2026-11-16,C005,Alajuela,Tarjeta,WhatsApp,32200.86
+2026-07-29,C011,Puntarenas,SINPE Móvil,WhatsApp,50351.37
+2026-07-03,C086,Cartago,SINPE Móvil,Web,17081.9
+2026-07-21,C110,Alajuela,Tarjeta,Web,11911.76
+2026-11-17,C107,San José,Tarjeta,Web,119196.3
+2026-03-30,C040,Alajuela,SINPE Móvil,WhatsApp,15528.81
+2026-01-27,C006,San José,SINPE Móvil,WhatsApp,4857.66
+2026-05-17,C005,Limón,Efectivo,Tienda,32817.34
+2026-01-07,C117,Heredia,Transferencia,Web,21951.07
+2026-08-03,C040,Limón,SINPE Móvil,Tienda,23009.47
+2026-01-06,C034,San José,SINPE Móvil,Web,49900.19
+2026-05-07,C077,Guanacaste,SINPE Móvil,Tienda,15530.96
+2026-06-19,C094,Heredia,SINPE Móvil,Tienda,35441.17
+2026-03-07,C015,Limón,Tarjeta,WhatsApp,14492.03
+2026-03-16,C001,Puntarenas,Tarjeta,Tienda,18900.43
+2026-03-10,C088,Cartago,Transferencia,Web,40095.32
+2026-09-01,C114,Heredia,Efectivo,Tienda,9426.06
+2026-09-13,C007,San José,Tarjeta,Tienda,28002.54
+2026-05-06,C101,Heredia,Transferencia,WhatsApp,28623.64
+2026-11-13,C076,Alajuela,SINPE Móvil,WhatsApp,14396.15
+2026-06-19,C116,Alajuela,Tarjeta,Tienda,12704.21
+2026-10-02,C072,Cartago,Tarjeta,Web,123810.81
+2026-04-03,C022,Guanacaste,Tarjeta,Web,106396.86
+2026-09-10,C119,Guanacaste,Tarjeta,Web,19919.85
+2026-05-09,C086,Alajuela,Transferencia,Web,26809.97
+2026-11-03,C080,Puntarenas,Tarjeta,Tienda,50376.63
+2026-09-12,C095,Alajuela,Tarjeta,Web,16278.19
+2026-07-30,C039,Puntarenas,SINPE Móvil,Tienda,11847.27
+2026-03-25,C006,Limón,Efectivo,Tienda,27263.76
+2026-10-13,C024,Cartago,SINPE Móvil,Web,19726.44
+2026-07-04,C104,Guanacaste,Efectivo,WhatsApp,18257.3
+2026-03-08,C056,Puntarenas,SINPE Móvil,Web,21071.6
+2026-07-05,C116,Guanacaste,SINPE Móvil,Tienda,31235.14
+2026-05-02,C045,Heredia,Transferencia,WhatsApp,12797.57
+2026-04-23,C001,Guanacaste,Tarjeta,WhatsApp,7722.72
+2026-01-13,C103,Heredia,Efectivo,Tienda,11293.62
+2026-07-02,C053,Guanacaste,Tarjeta,WhatsApp,15215.84
+2026-07-19,C095,Alajuela,Transferencia,Web,15990.85
+2026-01-06,C088,Puntarenas,Tarjeta,Web,6194.95
+2026-04-19,C010,Alajuela,SINPE Móvil,Web,12710.72
+2026-10-13,C090,Guanacaste,SINPE Móvil,WhatsApp,20834.1
+2026-02-07,C004,Alajuela,Transferencia,Tienda,112666.56
+2026-04-05,C054,Puntarenas,Transferencia,Web,124792.4
+2026-05-07,C029,Cartago,Tarjeta,Web,11759.1
+2026-06-30,C110,Limón,Tarjeta,WhatsApp,55571.07
+2026-04-20,C016,Puntarenas,Transferencia,Web,32243.92
+2026-07-17,C098,Cartago,Efectivo,WhatsApp,22453.25
+2026-04-19,C075,Limón,Transferencia,WhatsApp,50695.75
+2026-01-11,C018,Puntarenas,Transferencia,Web,10532.42
+2026-04-22,C110,Limón,Efectivo,Tienda,38064.66
+2026-05-19,C061,Puntarenas,Transferencia,Web,12702.51
+2026-06-16,C015,Cartago,Efectivo,WhatsApp,16448.24
+2026-05-08,C033,Cartago,Tarjeta,WhatsApp,19433.07
+2026-02-13,C010,Heredia,Transferencia,WhatsApp,101104.3
+2026-04-23,C119,Alajuela,Transferencia,Web,8811.99
+2026-06-04,C095,Puntarenas,Transferencia,WhatsApp,8995.44
+2026-02-26,C056,San José,Efectivo,WhatsApp,17003.81
+2026-08-20,C040,San José,Efectivo,Web,24405.24
+2026-05-21,C096,Heredia,Efectivo,WhatsApp,6554.67
+2026-01-19,C115,Heredia,SINPE Móvil,Web,5164.88
+2026-03-27,C061,Alajuela,Tarjeta,Web,25929.3
+2026-08-26,C106,Limón,Tarjeta,WhatsApp,23854.75
+2026-03-05,C014,Limón,Tarjeta,Web,17901.93
+2026-08-30,C053,Limón,Efectivo,Tienda,20525.37
+2026-02-21,C066,Cartago,Transferencia,WhatsApp,24432.41
+2026-08-05,C007,Heredia,Efectivo,Tienda,8980.7
+2026-11-07,C076,Alajuela,Tarjeta,Tienda,26027.73
+2026-06-19,C021,Limón,Tarjeta,Tienda,35577.42
+2026-02-03,C075,Cartago,Transferencia,WhatsApp,19542.44
+2026-09-26,C099,Cartago,SINPE Móvil,WhatsApp,12812.06
+2026-03-18,C082,Heredia,SINPE Móvil,WhatsApp,11523.79
+2026-02-13,C018,Cartago,Transferencia,Web,40186.67
+2026-09-16,C070,Puntarenas,Transferencia,Web,15599.26
+2026-04-12,C085,Cartago,Tarjeta,Web,26255.57
+2026-03-21,C028,Cartago,Transferencia,WhatsApp,51901.23
+2026-10-31,C037,Limón,Transferencia,Web,6672.79
+2026-02-03,C115,Puntarenas,Transferencia,WhatsApp,95231.59
+2026-02-14,C105,Limón,SINPE Móvil,WhatsApp,14317.31
+2026-08-09,C110,Alajuela,Efectivo,WhatsApp,43981.83
+2026-03-23,C088,Cartago,Tarjeta,Web,8423.15
+2026-09-15,C043,San José,Tarjeta,WhatsApp,7871.78
+2026-11-04,C117,Puntarenas,SINPE Móvil,Tienda,22652.14
+2026-11-13,C103,Alajuela,Efectivo,Tienda,20570.37
+2026-01-13,C021,Guanacaste,Efectivo,Tienda,41457.38
+2026-05-12,C030,Limón,Transferencia,Web,38547.94
+2026-03-31,C087,Heredia,Transferencia,Tienda,28760.07
+2026-05-19,C022,Limón,Tarjeta,Tienda,14190.69
+2026-06-02,C104,Guanacaste,SINPE Móvil,Web,16218.41
+2026-04-17,C098,Cartago,Transferencia,WhatsApp,49931.46
+2026-01-04,C083,Alajuela,Transferencia,Web,17548.01
+2026-10-08,C112,Limón,SINPE Móvil,WhatsApp,44389.7
+2026-03-12,C029,Cartago,SINPE Móvil,WhatsApp,17317.25
+2026-02-28,C032,Alajuela,Tarjeta,WhatsApp,7295.17
+2026-07-28,C095,Cartago,Transferencia,Web,80014.28
+2026-08-18,C079,Alajuela,Tarjeta,Tienda,32767.44
+2026-08-01,C098,Limón,SINPE Móvil,Web,33531.2
+2026-07-16,C092,Heredia,Efectivo,Web,31264.61
+2026-04-30,C117,San José,SINPE Móvil,WhatsApp,15167.29
+2026-02-28,C086,San José,Efectivo,WhatsApp,15021.08
+2026-02-27,C115,Heredia,Efectivo,Tienda,11021.15
+2026-03-13,C055,Puntarenas,Transferencia,Web,30457.72
+2026-10-21,C106,Alajuela,Efectivo,WhatsApp,9827.56
+2026-07-11,C119,San José,Tarjeta,Web,15145.11
+2026-09-19,C086,Cartago,Efectivo,Tienda,20555.77
+2026-08-22,C055,Guanacaste,SINPE Móvil,Tienda,22614.31
+2026-06-11,C025,Heredia,Tarjeta,WhatsApp,10000.15
+2026-11-07,C033,Puntarenas,SINPE Móvil,Tienda,7216.1
+2026-10-20,C036,Limón,SINPE Móvil,Web,16152.2
+2026-01-19,C053,Cartago,Transferencia,WhatsApp,13009.73
+2026-09-30,C084,Cartago,Transferencia,Tienda,76021.19
+2026-05-13,C038,Alajuela,Tarjeta,Tienda,23789.44
+2026-02-19,C095,Heredia,Efectivo,WhatsApp,12766.4
+2026-02-10,C019,Guanacaste,Transferencia,WhatsApp,8559.18
+2026-03-18,C081,Limón,Transferencia,Web,35580.21
+2026-10-12,C064,San José,SINPE Móvil,Tienda,104803.17
+2026-11-08,C027,Guanacaste,Efectivo,Web,24134.87
+2026-03-09,C023,Cartago,Tarjeta,Tienda,10275.68
+2026-06-09,C103,Puntarenas,Efectivo,WhatsApp,17253.66
+2026-06-16,C048,Guanacaste,Transferencia,Tienda,86756.79
+2026-05-10,C033,Cartago,Transferencia,WhatsApp,5887.02
+2026-06-26,C064,Cartago,SINPE Móvil,Web,5511.61
+2026-03-19,C061,Heredia,Efectivo,Tienda,39068.25
+2026-03-29,C047,Limón,Transferencia,WhatsApp,18595.19
+2026-01-06,C079,Limón,Transferencia,Web,10097.79
+2026-07-21,C093,Cartago,Tarjeta,Web,10707.35
+2026-03-17,C042,Heredia,Transferencia,Tienda,13880.79
+2026-08-18,C067,Limón,SINPE Móvil,Web,10842.98
+2026-05-13,C083,Cartago,Efectivo,Tienda,19693.02
+2026-06-13,C074,Cartago,Efectivo,Tienda,13595.06
+2026-08-15,C111,Alajuela,Efectivo,Tienda,28236.56
+2026-04-15,C037,Puntarenas,Tarjeta,WhatsApp,39445.78
+2026-06-21,C034,San José,Transferencia,Web,14901.96
+2026-09-10,C019,San José,Tarjeta,Web,65993.33
+2026-03-11,C031,Alajuela,SINPE Móvil,Tienda,21493.22
+2026-06-26,C037,Heredia,SINPE Móvil,WhatsApp,74871.76
+2026-08-25,C060,Cartago,Efectivo,Web,10670.29
+2026-09-13,C070,Alajuela,SINPE Móvil,Tienda,9804.5
+2026-09-07,C114,Cartago,Efectivo,Web,24781.54
+2026-10-07,C036,Limón,Tarjeta,WhatsApp,37493.08
+2026-08-02,C115,San José,SINPE Móvil,Web,96436.38
+2026-10-14,C001,Puntarenas,Tarjeta,Tienda,9350.88
+2026-10-26,C087,Guanacaste,Efectivo,Web,28899.25
+2026-08-19,C110,Alajuela,Transferencia,Web,16192.06
+2026-08-23,C018,Guanacaste,Transferencia,Web,46317.19
+2026-03-14,C081,Alajuela,Tarjeta,Tienda,34951.51
+2026-01-19,C085,San José,Efectivo,Web,7411.92
+2026-01-09,C080,Cartago,Transferencia,Tienda,51292.0
+2026-03-11,C004,Heredia,Transferencia,WhatsApp,17694.52
+2026-11-10,C037,Heredia,SINPE Móvil,WhatsApp,12378.69
+2026-04-12,C031,San José,SINPE Móvil,Web,25593.68
+2026-08-29,C047,Puntarenas,Transferencia,WhatsApp,12360.18
+2026-05-17,C110,Guanacaste,Tarjeta,WhatsApp,24402.77
+2026-05-06,C100,Cartago,Efectivo,Tienda,59224.63
+2026-10-08,C111,Alajuela,Efectivo,Tienda,9291.95
+2026-07-06,C057,Cartago,Transferencia,Web,18504.49
+2026-09-07,C007,Limón,Efectivo,Tienda,9529.11
+2026-04-02,C092,Puntarenas,Transferencia,Tienda,11125.57
+2026-02-08,C095,Heredia,Efectivo,Web,34450.15
+2026-08-21,C116,Guanacaste,Efectivo,Tienda,6207.84
+2026-04-11,C026,Heredia,Efectivo,Tienda,14741.67
+2026-10-28,C081,Limón,Efectivo,WhatsApp,43211.64
+2026-07-23,C120,Puntarenas,Tarjeta,Web,26498.66
+2026-10-04,C102,Guanacaste,SINPE Móvil,Web,16339.32
+2026-03-15,C001,Heredia,Efectivo,Tienda,43731.14
+2026-02-26,C068,Puntarenas,Tarjeta,WhatsApp,12048.3
+2026-01-16,C023,Cartago,SINPE Móvil,Tienda,19511.45
+2026-11-13,C058,Guanacaste,Efectivo,WhatsApp,15753.47
+2026-11-12,C070,Guanacaste,Tarjeta,Tienda,12801.84
+2026-06-06,C015,Limón,SINPE Móvil,Web,28604.6
+2026-01-03,C003,Alajuela,SINPE Móvil,Tienda,17196.19
+2026-05-14,C004,Heredia,Tarjeta,WhatsApp,7909.54
+2026-09-13,C077,Alajuela,Tarjeta,Tienda,4524.46
+2026-07-09,C012,Heredia,Efectivo,Tienda,55052.05
+2026-11-11,C045,Guanacaste,Tarjeta,Tienda,13644.69
+2026-06-09,C094,Guanacaste,Efectivo,Tienda,17063.44
+2026-06-08,C037,Limón,Tarjeta,Tienda,32055.5
+2026-04-11,C018,Limón,Tarjeta,Web,13317.65
+2026-09-19,C078,Puntarenas,Transferencia,Web,15184.58
+2026-07-22,C115,Heredia,Efectivo,Tienda,28533.42
+2026-04-11,C082,Guanacaste,Tarjeta,WhatsApp,18079.2
+2026-03-09,C014,Heredia,Efectivo,Web,33322.16
+2026-08-23,C008,Heredia,Transferencia,Web,22389.66
+2026-05-23,C110,Alajuela,SINPE Móvil,Web,10231.57
+2026-06-10,C044,Heredia,Tarjeta,Web,3630.62
+2026-09-30,C066,San José,Transferencia,Tienda,17011.87
+2026-09-22,C080,Cartago,SINPE Móvil,WhatsApp,54935.41
+2026-09-25,C088,Heredia,SINPE Móvil,Web,18723.98
+2026-05-10,C041,Guanacaste,Tarjeta,WhatsApp,74429.86
+2026-07-15,C004,Puntarenas,Transferencia,Tienda,11959.22
+2026-02-28,C053,Puntarenas,Transferencia,Web,66649.73
+2026-02-10,C073,Heredia,Efectivo,Web,34431.47
+2026-06-25,C110,Limón,Efectivo,WhatsApp,11624.14
+2026-07-25,C118,Guanacaste,Tarjeta,Tienda,13327.64
+2026-04-06,C044,San José,SINPE Móvil,Web,6246.88
+2026-10-02,C111,Limón,Efectivo,Web,32526.96
+2026-06-29,C030,Limón,Transferencia,Tienda,5626.21
+2026-02-17,C048,Cartago,Transferencia,Web,33234.57
+2026-03-18,C060,Alajuela,Tarjeta,WhatsApp,1733.72
+2026-06-29,C110,Puntarenas,Transferencia,Web,15850.92
+2026-05-04,C019,Limón,Tarjeta,Tienda,14734.07
+2026-04-05,C073,Cartago,Efectivo,Web,32329.55
+2026-06-27,C046,Puntarenas,Transferencia,Web,22540.32
+2026-02-23,C007,Guanacaste,Efectivo,WhatsApp,5538.28
+2026-10-13,C055,Guanacaste,SINPE Móvil,Tienda,13088.36
+2026-09-17,C088,Limón,Efectivo,Web,79480.93
+2026-02-17,C105,Cartago,SINPE Móvil,WhatsApp,13783.92
+2026-10-19,C046,Limón,Tarjeta,Tienda,10304.06
+2026-02-16,C057,Heredia,Tarjeta,Web,4433.5
+2026-01-26,C009,Heredia,Transferencia,Tienda,34930.04
+2026-01-06,C038,Guanacaste,Efectivo,WhatsApp,34736.63
+2026-11-17,C012,Guanacaste,Efectivo,Tienda,9954.57
+2026-03-19,C072,Limón,Tarjeta,Web,8576.43
+2026-10-12,C050,Limón,Tarjeta,WhatsApp,38276.66
+2026-08-07,C027,Cartago,Tarjeta,Web,4586.71
+2026-02-23,C084,Alajuela,SINPE Móvil,WhatsApp,24554.37
+2026-02-08,C051,Puntarenas,Tarjeta,Tienda,23924.35
+2026-09-16,C040,Limón,Tarjeta,Tienda,21546.02
+2026-10-08,C020,San José,SINPE Móvil,Web,23352.88
+2026-10-29,C081,Cartago,SINPE Móvil,Tienda,14020.41
+2026-11-07,C107,Cartago,Efectivo,WhatsApp,10633.86
+2026-05-07,C029,Guanacaste,Efectivo,Web,119583.2
+2026-01-15,C011,Limón,SINPE Móvil,WhatsApp,9463.34
+2026-09-28,C026,Heredia,Tarjeta,WhatsApp,11337.73
+2026-10-28,C033,Puntarenas,Efectivo,Web,13993.72
+2026-11-10,C001,Guanacaste,Transferencia,Tienda,7739.91
+2026-04-22,C106,Cartago,SINPE Móvil,Tienda,15803.73
+2026-08-01,C026,Guanacaste,Transferencia,Tienda,38162.39
+2026-05-30,C008,Heredia,Transferencia,WhatsApp,34060.6
+2026-09-20,C115,Limón,SINPE Móvil,Web,15644.68
+2026-05-28,C100,Alajuela,Efectivo,Web,6653.68
+2026-04-28,C094,Puntarenas,SINPE Móvil,Web,5319.93
+2026-08-09,C106,Limón,Efectivo,WhatsApp,53210.78
+2026-09-08,C101,Cartago,SINPE Móvil,Web,22914.31
+2026-01-24,C041,Heredia,SINPE Móvil,WhatsApp,12838.44
+2026-08-02,C010,Cartago,Transferencia,WhatsApp,16620.61
+2026-07-20,C008,Heredia,SINPE Móvil,Web,25279.61
+2026-11-12,C092,Limón,Transferencia,Web,27306.05
+2026-05-31,C082,Guanacaste,Efectivo,Web,13022.76
+2026-04-08,C032,San José,SINPE Móvil,Tienda,12320.63
+2026-09-10,C029,Puntarenas,Efectivo,Tienda,54940.87
+2026-08-26,C119,Cartago,SINPE Móvil,Tienda,15008.18
+2026-06-22,C019,Puntarenas,Efectivo,WhatsApp,19033.47
+2026-06-10,C095,Alajuela,SINPE Móvil,Web,12487.1
+2026-10-24,C005,Limón,SINPE Móvil,WhatsApp,4992.65
+2026-06-30,C032,Heredia,Transferencia,Web,16398.56
+2026-04-16,C009,Cartago,SINPE Móvil,Web,31323.57
+2026-08-28,C087,Heredia,Tarjeta,Tienda,43966.18
+2026-07-17,C015,Limón,SINPE Móvil,Web,49885.09
+2026-01-03,C021,Alajuela,Tarjeta,WhatsApp,17556.98
+2026-04-14,C050,Limón,SINPE Móvil,WhatsApp,15259.28
+2026-09-16,C064,Puntarenas,Transferencia,Tienda,9293.13
+2026-01-13,C024,Cartago,Efectivo,WhatsApp,47222.25
+2026-06-02,C022,Guanacaste,SINPE Móvil,WhatsApp,5523.34
+2026-04-19,C080,Guanacaste,SINPE Móvil,WhatsApp,15254.64
+2026-01-23,C050,Puntarenas,Transferencia,Tienda,12631.37
+2026-06-08,C115,Heredia,Tarjeta,WhatsApp,21198.62
+2026-11-14,C045,Guanacaste,SINPE Móvil,WhatsApp,9334.61
+2026-02-02,C086,Heredia,Efectivo,Web,24093.05
+2026-08-15,C043,San José,Transferencia,WhatsApp,21608.89
+2026-07-18,C055,Heredia,Efectivo,WhatsApp,30346.24
+2026-07-24,C076,Limón,Tarjeta,Tienda,114195.48
+2026-08-16,C047,Alajuela,Tarjeta,Tienda,17009.1
+2026-01-22,C079,Limón,Tarjeta,Tienda,69014.21
+2026-08-28,C059,Limón,Transferencia,Tienda,19067.5
+2026-06-05,C037,Heredia,Tarjeta,Tienda,12283.6
+2026-06-06,C036,San José,Transferencia,Tienda,5365.94
+2026-10-28,C107,Guanacaste,Efectivo,Tienda,15153.48
+2026-09-29,C065,Heredia,Tarjeta,Web,19245.86
+2026-09-16,C018,Alajuela,Efectivo,Web,18611.69
+2026-01-27,C100,Cartago,Efectivo,Tienda,46618.33
+2026-11-15,C021,Cartago,Transferencia,Tienda,7809.49
+2026-03-25,C111,Guanacaste,Transferencia,Web,46144.83
+2026-10-13,C004,Puntarenas,Transferencia,WhatsApp,25789.99
+2026-10-03,C006,Limón,Efectivo,Web,77789.73
+2026-10-19,C033,Alajuela,Efectivo,WhatsApp,18194.11
+2026-04-24,C055,Cartago,Efectivo,WhatsApp,32086.66
+2026-05-30,C034,Guanacaste,Tarjeta,Web,20788.66
+2026-03-25,C111,Limón,Tarjeta,WhatsApp,23587.68
+2026-09-25,C075,Alajuela,Efectivo,Tienda,24294.79
+2026-03-28,C084,Heredia,Transferencia,WhatsApp,27583.18
+2026-04-13,C091,Guanacaste,Transferencia,WhatsApp,44745.75
+2026-04-14,C001,San José,Tarjeta,Tienda,17270.03
+2026-04-07,C056,Limón,SINPE Móvil,Tienda,8183.98
+2026-07-11,C048,Guanacaste,SINPE Móvil,Web,22819.77
+2026-09-08,C041,Puntarenas,Tarjeta,Web,11967.99
+2026-08-10,C011,Limón,Transferencia,Tienda,16276.73
+2026-09-12,C051,Cartago,Efectivo,Tienda,48670.12
+2026-10-28,C055,Heredia,SINPE Móvil,Web,9552.51
+2026-06-10,C053,Limón,Tarjeta,Web,16743.78
+2026-07-16,C011,Heredia,Tarjeta,Tienda,9003.83
+2026-01-21,C043,San José,SINPE Móvil,Tienda,13751.86
+2026-07-29,C026,Alajuela,SINPE Móvil,Web,35519.12
+2026-10-21,C004,Heredia,Tarjeta,Tienda,39283.12
+2026-09-20,C038,Limón,SINPE Móvil,Tienda,87216.99
+2026-09-20,C068,Guanacaste,Transferencia,WhatsApp,12094.97
+2026-08-27,C057,Puntarenas,Tarjeta,WhatsApp,4095.13
+2026-01-23,C030,Heredia,Tarjeta,Tienda,9730.01
+2026-03-07,C052,Limón,SINPE Móvil,WhatsApp,32237.35
+2026-10-28,C089,Puntarenas,SINPE Móvil,WhatsApp,8536.46
+2026-01-11,C086,Guanacaste,Transferencia,WhatsApp,21643.04
+2026-05-26,C079,Heredia,Transferencia,Tienda,36364.57
+2026-05-14,C107,Puntarenas,Efectivo,WhatsApp,4841.85
+2026-11-12,C004,Guanacaste,Tarjeta,Tienda,6094.53
+2026-09-02,C118,San José,Tarjeta,Web,10424.46
+2026-01-10,C087,Alajuela,Efectivo,Web,7792.17
+2026-07-22,C074,Heredia,SINPE Móvil,Tienda,21411.41
+2026-09-09,C110,Guanacaste,Tarjeta,WhatsApp,65278.95
+2026-09-14,C023,Alajuela,Tarjeta,Web,10131.93
+2026-10-22,C057,Puntarenas,Efectivo,Web,12237.84
+2026-09-30,C101,Cartago,SINPE Móvil,Web,82762.45
+2026-05-27,C010,San José,Transferencia,WhatsApp,6519.74
+2026-06-15,C084,Puntarenas,Efectivo,Tienda,26618.47
+2026-07-19,C032,Guanacaste,Tarjeta,Web,30344.65
+2026-05-10,C088,Limón,SINPE Móvil,Web,10135.3
+2026-03-09,C014,Heredia,Transferencia,Web,17484.77
+2026-10-26,C066,Cartago,Tarjeta,Web,8500.76
+2026-05-14,C088,Guanacaste,SINPE Móvil,Tienda,48465.71
+2026-01-10,C008,Puntarenas,Tarjeta,Web,1331.18
+2026-04-18,C024,Puntarenas,Transferencia,WhatsApp,52160.24
+2026-08-15,C091,Alajuela,Efectivo,Tienda,16310.69
+2026-11-08,C080,Guanacaste,Tarjeta,WhatsApp,32155.41
+2026-05-05,C070,San José,Transferencia,Tienda,18939.18
+2026-06-16,C015,Guanacaste,Transferencia,WhatsApp,14492.4
+2026-04-28,C058,San José,Tarjeta,Web,10923.62
+2026-01-11,C039,Alajuela,Transferencia,Tienda,18228.25
+2026-02-04,C058,Cartago,Efectivo,Web,102121.19
+2026-10-12,C074,San José,Tarjeta,Web,18533.13
+2026-06-26,C070,San José,Transferencia,WhatsApp,20344.88
+2026-03-22,C086,Cartago,Tarjeta,Web,17513.58
+2026-01-08,C058,Puntarenas,SINPE Móvil,WhatsApp,8011.68
+2026-02-24,C027,Limón,Transferencia,Tienda,17653.38
+2026-05-24,C004,San José,Tarjeta,Web,32195.05
+2026-04-01,C077,Puntarenas,SINPE Móvil,WhatsApp,17376.71
+2026-02-10,C120,Guanacaste,Tarjeta,Web,37895.75
+2026-06-02,C021,San José,Efectivo,WhatsApp,10528.87
+2026-05-31,C042,San José,Transferencia,Tienda,103040.68
+2026-09-10,C050,Alajuela,Transferencia,Tienda,18848.77
+2026-01-26,C113,Alajuela,SINPE Móvil,Web,13250.14
+2026-01-21,C012,San José,SINPE Móvil,Web,11852.22
+2026-08-31,C077,San José,Transferencia,WhatsApp,23834.58
+2026-03-14,C068,Guanacaste,Tarjeta,Web,24196.48
+2026-01-05,C072,Guanacaste,Efectivo,Web,87275.63
+2026-03-09,C028,Cartago,SINPE Móvil,Tienda,30760.3
+2026-03-31,C039,Alajuela,Transferencia,Web,48075.19
+2026-10-29,C114,Limón,Efectivo,WhatsApp,32007.87
+2026-09-18,C092,Alajuela,SINPE Móvil,WhatsApp,54827.07
+2026-03-24,C034,Puntarenas,SINPE Móvil,Tienda,20772.65
+2026-11-13,C115,Heredia,Efectivo,WhatsApp,7063.0
+2026-01-28,C112,Heredia,Transferencia,WhatsApp,36107.31
+2026-06-10,C093,Alajuela,Efectivo,Tienda,6169.99
+2026-07-08,C096,Limón,Tarjeta,Web,29863.76
+2026-06-30,C116,Heredia,Tarjeta,Web,82896.12
+2026-06-09,C085,San José,Efectivo,WhatsApp,26591.78
+2026-07-11,C028,San José,SINPE Móvil,Web,92680.43
+2026-03-19,C048,San José,SINPE Móvil,Tienda,30251.67
+2026-04-25,C024,Limón,Efectivo,Tienda,19968.25
+2026-06-02,C049,Heredia,Efectivo,Web,26415.55
+2026-11-09,C104,Guanacaste,SINPE Móvil,Web,6508.2
+2026-03-26,C025,San José,Efectivo,Web,3597.28
+2026-04-21,C009,Guanacaste,SINPE Móvil,Tienda,89024.78
+2026-07-04,C070,Guanacaste,Tarjeta,WhatsApp,22770.69
+2026-02-20,C111,Heredia,Transferencia,Tienda,22236.92
+2026-07-10,C008,Heredia,SINPE Móvil,Web,39260.58
+2026-11-03,C045,Guanacaste,SINPE Móvil,Web,25392.31
+2026-06-18,C006,Alajuela,SINPE Móvil,WhatsApp,10378.33
+2026-11-03,C037,Limón,Tarjeta,WhatsApp,23104.41
+2026-01-26,C062,Heredia,Transferencia,Tienda,100881.64
+2026-07-27,C103,Cartago,SINPE Móvil,Web,4959.17
+2026-03-31,C098,Puntarenas,Efectivo,WhatsApp,32410.43
+2026-07-17,C009,San José,SINPE Móvil,WhatsApp,11707.13
+2026-09-02,C027,Guanacaste,SINPE Móvil,Web,6094.98
+2026-01-29,C052,Puntarenas,Tarjeta,Web,10553.77
+2026-10-13,C059,Cartago,Transferencia,Tienda,49531.43
+2026-06-14,C016,Limón,Efectivo,Web,33673.43
+2026-03-22,C090,Limón,Efectivo,WhatsApp,10807.89
+2026-07-11,C075,San José,Efectivo,Web,22384.3
+2026-04-25,C062,San José,SINPE Móvil,WhatsApp,31126.22
+2026-01-30,C060,San José,Tarjeta,Web,68656.83
+2026-04-08,C035,Puntarenas,Transferencia,WhatsApp,44914.45
+2026-07-12,C077,Guanacaste,Tarjeta,WhatsApp,5951.63
+2026-11-11,C034,Limón,Efectivo,Tienda,36123.86
+2026-04-03,C045,Heredia,Efectivo,WhatsApp,15670.68
+2026-03-10,C075,Guanacaste,Efectivo,WhatsApp,11630.52
+2026-04-14,C064,Alajuela,Tarjeta,WhatsApp,38590.2
+2026-09-17,C043,Heredia,SINPE Móvil,WhatsApp,80255.24
+2026-04-02,C035,San José,Efectivo,Web,24108.84
+2026-06-22,C041,Heredia,Efectivo,Web,26232.44
+2026-04-09,C060,Cartago,Transferencia,Tienda,78242.82
+2026-04-06,C072,Alajuela,Efectivo,Web,116894.6
+2026-04-13,C039,Alajuela,SINPE Móvil,WhatsApp,73725.05
+2026-10-04,C028,Limón,Tarjeta,Web,4479.37
+2026-05-02,C069,Heredia,Tarjeta,Web,29661.39
+2026-01-30,C085,Guanacaste,SINPE Móvil,Tienda,68146.16
+2026-11-10,C065,Limón,Tarjeta,WhatsApp,12445.63
+2026-10-05,C008,Heredia,SINPE Móvil,WhatsApp,9924.4
+2026-01-17,C023,Limón,Transferencia,Web,2016.25
+2026-07-17,C044,Cartago,Transferencia,Web,12383.22
+2026-02-01,C056,Puntarenas,Efectivo,Web,24278.29
+2026-09-01,C020,Heredia,Transferencia,WhatsApp,29230.35
+2026-09-21,C029,San José,SINPE Móvil,Web,18893.37
+2026-01-01,C115,Heredia,Tarjeta,WhatsApp,26326.86
+2026-09-27,C091,Cartago,Tarjeta,Tienda,79964.46
+2026-07-24,C106,Alajuela,SINPE Móvil,Tienda,164687.33
+2026-11-03,C005,San José,SINPE Móvil,Web,47393.57
+2026-06-06,C076,Cartago,Efectivo,WhatsApp,22203.11
+2026-09-21,C022,Guanacaste,SINPE Móvil,WhatsApp,11161.59
+2026-08-12,C001,Heredia,Efectivo,WhatsApp,38909.03
+2026-10-21,C080,Cartago,SINPE Móvil,WhatsApp,46469.63
+2026-03-02,C015,Guanacaste,Tarjeta,Web,5512.88
+2026-10-14,C046,San José,Tarjeta,Web,14466.79
+2026-06-09,C106,Cartago,Tarjeta,Tienda,3225.6
+2026-10-31,C101,San José,Tarjeta,Web,3954.33
+2026-07-02,C055,Guanacaste,SINPE Móvil,WhatsApp,27114.29
+2026-11-08,C084,Guanacaste,Transferencia,Web,42103.7
+2026-10-29,C027,Limón,SINPE Móvil,Tienda,9593.35
+2026-08-15,C002,Cartago,SINPE Móvil,Tienda,11656.67
+2026-02-13,C019,Limón,SINPE Móvil,WhatsApp,11216.97
+2026-03-28,C053,Limón,SINPE Móvil,Web,41837.21
+2026-03-20,C085,Limón,SINPE Móvil,Web,8154.6
+2026-01-06,C120,Limón,SINPE Móvil,Tienda,26695.38
+2026-11-16,C029,Puntarenas,Tarjeta,Web,28508.24
+2026-11-04,C023,San José,Transferencia,WhatsApp,10271.02
+2026-04-26,C110,Limón,Transferencia,WhatsApp,11988.75
+2026-01-13,C037,Alajuela,Tarjeta,Web,8349.2
+2026-09-16,C015,Cartago,Efectivo,WhatsApp,5288.91
+2026-06-23,C035,Alajuela,SINPE Móvil,Web,79286.5
+2026-02-04,C098,Heredia,Transferencia,Web,17335.71
+2026-08-23,C053,Cartago,SINPE Móvil,Web,61967.59
+2026-09-17,C095,Cartago,Transferencia,Tienda,7476.75
+2026-11-17,C005,Heredia,Transferencia,Web,7975.49
+2026-02-18,C103,Alajuela,SINPE Móvil,Web,33560.02
+2026-06-24,C034,Limón,Tarjeta,WhatsApp,34896.33
+2026-03-21,C055,Heredia,Efectivo,WhatsApp,27545.36
+2026-03-03,C029,Heredia,Tarjeta,Tienda,10082.92
+2026-08-27,C002,Puntarenas,SINPE Móvil,Tienda,30413.53
+2026-06-30,C025,San José,Transferencia,WhatsApp,33408.17
+2026-05-30,C051,Heredia,Efectivo,Web,14423.26
+2026-03-14,C049,Alajuela,Efectivo,Web,17885.53
+2026-02-16,C008,Limón,Transferencia,Web,44259.74
+2026-06-06,C031,Guanacaste,Efectivo,Web,22783.26
+2026-10-02,C020,San José,SINPE Móvil,WhatsApp,12758.7
+2026-05-15,C055,Guanacaste,Efectivo,Web,20261.84
+2026-07-30,C072,San José,Tarjeta,Web,26763.99
+2026-02-27,C010,Heredia,Efectivo,Web,52049.62
+2026-09-08,C104,Limón,Efectivo,WhatsApp,19418.97
+2026-02-01,C052,Guanacaste,SINPE Móvil,Tienda,10639.02
+2026-05-05,C059,Guanacaste,SINPE Móvil,Tienda,43062.25
+2026-03-09,C052,Guanacaste,SINPE Móvil,Tienda,5890.17
+2026-01-29,C109,Alajuela,Tarjeta,WhatsApp,20572.03
+2026-08-18,C091,Limón,SINPE Móvil,Web,50577.01
+2026-01-20,C008,Guanacaste,Tarjeta,Tienda,5645.31
+2026-03-02,C068,Limón,Efectivo,Tienda,33585.12
+2026-03-09,C043,Limón,SINPE Móvil,Tienda,14743.55
+2026-10-17,C045,Limón,Tarjeta,WhatsApp,40702.08
+2026-10-07,C002,Puntarenas,Efectivo,WhatsApp,45554.34
+2026-09-16,C074,Limón,Efectivo,WhatsApp,41526.94
+2026-08-30,C116,Alajuela,Transferencia,Tienda,28930.46
+2026-04-28,C106,Limón,Efectivo,Tienda,26825.83
+2026-11-10,C099,Limón,Transferencia,Web,117808.72
+2026-10-29,C056,Limón,Efectivo,WhatsApp,75146.31
+2026-02-07,C090,San José,Efectivo,Tienda,14894.57
+2026-03-31,C094,Cartago,Transferencia,Tienda,29152.87
+2026-11-02,C011,Puntarenas,Tarjeta,Tienda,8087.2
+2026-08-04,C035,Puntarenas,SINPE Móvil,Web,11446.18
+2026-01-16,C028,Heredia,Transferencia,WhatsApp,50547.82
+2026-04-09,C023,Cartago,Tarjeta,Web,33487.97
+2026-09-22,C119,Puntarenas,Transferencia,WhatsApp,48554.12
+2026-05-23,C026,Alajuela,Efectivo,Tienda,12474.53
+2026-07-08,C042,Puntarenas,Transferencia,Web,23717.7
+2026-04-18,C082,Limón,Efectivo,Tienda,16008.24
+2026-05-05,C100,San José,Efectivo,Tienda,67000.16
+2026-08-09,C019,Alajuela,Tarjeta,Web,7152.9
+2026-10-21,C031,San José,Tarjeta,Tienda,37507.04
+2026-02-16,C077,Guanacaste,Transferencia,Web,23568.77
+2026-07-13,C117,Puntarenas,Efectivo,Web,18484.21
+2026-04-08,C107,Heredia,Efectivo,WhatsApp,21446.54
+2026-04-05,C051,Puntarenas,Tarjeta,Tienda,19175.49
+2026-01-31,C088,Cartago,SINPE Móvil,WhatsApp,32118.42
+2026-02-05,C066,Puntarenas,Transferencia,WhatsApp,11018.04
+2026-10-28,C046,Cartago,SINPE Móvil,Web,26280.24
+2026-10-30,C099,Alajuela,Tarjeta,WhatsApp,12454.56
+2026-05-18,C105,Limón,SINPE Móvil,Tienda,57934.47
+2026-05-19,C102,San José,Tarjeta,Tienda,26948.38
+2026-09-07,C018,Cartago,Transferencia,Tienda,13006.81
+2026-09-15,C020,Puntarenas,SINPE Móvil,Tienda,27141.95
+2026-03-06,C028,San José,Transferencia,WhatsApp,28043.93
+2026-03-19,C110,Alajuela,Efectivo,WhatsApp,44476.85
+2026-08-21,C042,Limón,SINPE Móvil,Tienda,17315.83
+2026-02-23,C110,Heredia,Transferencia,WhatsApp,27147.84
+2026-02-26,C078,Alajuela,Transferencia,Tienda,45893.09
+2026-10-10,C006,San José,Efectivo,Web,8822.0
+2026-10-27,C113,Cartago,Tarjeta,WhatsApp,47845.41
+2026-04-15,C110,San José,SINPE Móvil,Web,80591.65
+2026-07-30,C105,Puntarenas,Tarjeta,WhatsApp,62279.58
+2026-08-24,C091,San José,Tarjeta,WhatsApp,30645.34
+2026-08-11,C077,Puntarenas,Tarjeta,Web,17878.34
+2026-04-19,C085,Limón,SINPE Móvil,Tienda,162363.46
+2026-06-04,C022,San José,Tarjeta,WhatsApp,36654.33
+2026-05-07,C047,Heredia,SINPE Móvil,WhatsApp,41668.49
+2026-09-28,C048,Guanacaste,SINPE Móvil,Tienda,70945.56
+2026-01-04,C036,Guanacaste,Transferencia,Web,3056.56
+2026-06-21,C046,Limón,Efectivo,Tienda,34933.85
+2026-06-01,C103,Cartago,Efectivo,WhatsApp,31270.79
+2026-02-03,C007,Limón,Tarjeta,Web,28917.16
+2026-07-10,C050,Alajuela,Tarjeta,WhatsApp,25932.16
+2026-04-26,C054,Guanacaste,Efectivo,WhatsApp,15666.85
+2026-01-22,C023,San José,Tarjeta,Web,8186.21
+2026-06-28,C090,Alajuela,Tarjeta,Web,18315.93
+2026-10-01,C067,Cartago,Tarjeta,Web,17209.54
+2026-02-20,C013,Guanacaste,SINPE Móvil,Web,31721.55
+2026-05-06,C080,Limón,Efectivo,Tienda,69531.51
+2026-02-06,C111,Puntarenas,SINPE Móvil,Tienda,3282.91
+2026-07-03,C091,Cartago,Efectivo,Tienda,10071.54
+2026-09-27,C110,Heredia,SINPE Móvil,Tienda,37190.97
+2026-11-09,C080,Limón,Efectivo,WhatsApp,10437.28
+2026-06-13,C119,Guanacaste,Efectivo,Tienda,39768.84
+2026-05-25,C115,San José,SINPE Móvil,Tienda,6940.93
+2026-08-18,C045,Limón,SINPE Móvil,Web,13873.66
+2026-07-03,C070,Puntarenas,SINPE Móvil,WhatsApp,9872.17
+2026-01-25,C043,Guanacaste,Efectivo,WhatsApp,32563.09
+2026-08-27,C104,Puntarenas,Transferencia,WhatsApp,10509.42
+2026-01-26,C091,Heredia,Efectivo,Tienda,24298.14
+2026-10-21,C106,Limón,SINPE Móvil,Web,25820.11
+2026-02-21,C073,Alajuela,SINPE Móvil,WhatsApp,48042.25
+2026-09-13,C112,San José,Transferencia,Tienda,8245.94
+2026-07-03,C116,Alajuela,Transferencia,Tienda,30157.92
+2026-06-16,C113,Limón,SINPE Móvil,WhatsApp,22148.18
+2026-11-07,C097,Heredia,Efectivo,Web,13178.61
+2026-10-18,C008,Heredia,Tarjeta,Web,25254.15
+2026-07-18,C015,Puntarenas,Tarjeta,WhatsApp,39754.68
+2026-07-17,C112,Alajuela,Efectivo,WhatsApp,57769.23
+2026-08-20,C093,Guanacaste,Tarjeta,Tienda,65707.0
+2026-01-18,C035,Limón,Tarjeta,Web,71308.72
+2026-09-08,C015,Alajuela,SINPE Móvil,Tienda,8072.31
+2026-06-22,C024,Cartago,SINPE Móvil,WhatsApp,21437.34
+2026-06-02,C114,Limón,Transferencia,Tienda,34922.14
+2026-05-05,C023,San José,Transferencia,Tienda,31837.94
+2026-04-24,C085,Heredia,Efectivo,Tienda,19890.49
+2026-02-03,C070,Cartago,Transferencia,Tienda,22920.74
+2026-08-30,C077,Alajuela,Transferencia,Web,20737.18
+2026-06-20,C049,Limón,Tarjeta,Tienda,19966.79
+2026-07-18,C094,Puntarenas,Efectivo,Tienda,22148.48
+2026-09-29,C096,Heredia,Transferencia,Web,30281.66
+2026-11-12,C093,Heredia,Transferencia,Web,21613.37
+2026-01-16,C051,Guanacaste,Tarjeta,Tienda,49176.72
+2026-05-11,C020,Heredia,Transferencia,WhatsApp,3641.1
+2026-02-22,C071,Heredia,Transferencia,Tienda,28124.12
+2026-03-22,C064,Cartago,Efectivo,Web,15102.75
+2026-10-30,C068,Heredia,Tarjeta,WhatsApp,12878.43
+2026-03-12,C006,Guanacaste,Transferencia,WhatsApp,223611.71
+2026-10-14,C070,Limón,SINPE Móvil,Tienda,16602.55
+2026-01-21,C022,Alajuela,Tarjeta,Web,33592.71
+2026-05-07,C048,Limón,Tarjeta,WhatsApp,8729.28
+2026-06-17,C021,Guanacaste,SINPE Móvil,WhatsApp,13496.8
+2026-09-23,C075,Guanacaste,Transferencia,Tienda,14775.06
+2026-01-11,C022,Puntarenas,Tarjeta,WhatsApp,24067.55
+2026-08-26,C064,Puntarenas,Tarjeta,Web,14040.87
+2026-09-03,C049,San José,Tarjeta,Web,52268.17
+2026-04-11,C056,Heredia,SINPE Móvil,Tienda,135707.22
+2026-05-29,C093,Heredia,Tarjeta,Web,33537.68
+2026-06-29,C046,Heredia,Tarjeta,Tienda,5156.78
+2026-01-22,C009,Alajuela,Transferencia,Tienda,13683.8
+2026-02-09,C091,Limón,Transferencia,Web,15900.18
+2026-09-25,C088,San José,Tarjeta,Tienda,38302.71
+2026-04-05,C040,San José,Transferencia,WhatsApp,227735.31
+2026-02-04,C026,Heredia,SINPE Móvil,Web,3250.78
+2026-04-28,C041,Alajuela,Efectivo,Web,30153.16
+2026-04-13,C059,Limón,Tarjeta,Web,54550.19
+2026-06-10,C027,Alajuela,SINPE Móvil,Web,18627.61
+2026-08-27,C001,Alajuela,Transferencia,Web,8054.27
+2026-10-24,C078,Puntarenas,Transferencia,Web,32887.94
+2026-08-25,C065,Heredia,Tarjeta,WhatsApp,12257.09
+2026-10-05,C021,Alajuela,Transferencia,Tienda,7594.38
+2026-05-30,C002,Puntarenas,Efectivo,WhatsApp,27968.87
+2026-08-31,C026,Limón,SINPE Móvil,Web,13740.46
+2026-05-12,C066,Puntarenas,Efectivo,WhatsApp,10085.44
+2026-10-13,C112,Heredia,SINPE Móvil,Web,25463.17
+2026-07-18,C098,San José,Tarjeta,WhatsApp,11420.58
+2026-01-20,C014,Cartago,SINPE Móvil,Tienda,30915.56
+2026-09-16,C086,Alajuela,SINPE Móvil,Tienda,23999.08
+2026-01-24,C033,Limón,SINPE Móvil,Tienda,109872.13
+2026-10-31,C008,Guanacaste,SINPE Móvil,WhatsApp,13113.64
+2026-07-26,C023,Guanacaste,Tarjeta,Tienda,43103.8
+2026-09-17,C105,Puntarenas,Tarjeta,Tienda,142823.67
+2026-08-26,C062,San José,SINPE Móvil,Web,7129.85
+2026-05-30,C109,Guanacaste,SINPE Móvil,Tienda,8884.45
+2026-06-05,C038,Heredia,Tarjeta,Tienda,15059.31
+2026-05-01,C028,Guanacaste,SINPE Móvil,Web,6753.37
+2026-02-23,C062,Alajuela,Tarjeta,Web,6168.31
+2026-06-20,C003,Cartago,Tarjeta,Tienda,23674.79
+2026-04-29,C013,San José,Efectivo,WhatsApp,4701.56
+2026-05-24,C036,Puntarenas,SINPE Móvil,Tienda,25233.71
+2026-01-29,C062,Cartago,Transferencia,WhatsApp,8400.25
+2026-06-02,C056,Cartago,Tarjeta,WhatsApp,19143.56
+2026-03-28,C004,Alajuela,Efectivo,Tienda,4774.25
+2026-07-22,C041,Guanacaste,Efectivo,WhatsApp,39144.77
+2026-03-14,C063,Guanacaste,SINPE Móvil,Web,4541.58
+2026-03-29,C119,San José,Tarjeta,Tienda,15323.43
+2026-04-06,C010,Alajuela,SINPE Móvil,Tienda,38411.09
+2026-02-25,C060,San José,Transferencia,WhatsApp,11013.34
+2026-07-06,C075,Heredia,SINPE Móvil,Web,71197.65
+2026-10-01,C082,San José,Efectivo,Web,6113.95
+2026-03-19,C059,Alajuela,Tarjeta,Tienda,9714.91
+2026-04-11,C070,San José,Transferencia,WhatsApp,14296.65
+2026-08-01,C113,Heredia,SINPE Móvil,WhatsApp,61212.15
+2026-09-12,C028,Alajuela,Transferencia,Tienda,22221.8
+2026-04-12,C022,Puntarenas,Transferencia,Web,18627.73
+2026-05-06,C067,Cartago,Transferencia,Tienda,17006.5
+2026-05-22,C053,Cartago,Transferencia,Tienda,9005.79
+2026-07-07,C091,Limón,Efectivo,WhatsApp,19120.32
+2026-06-21,C016,San José,SINPE Móvil,WhatsApp,28040.64
+2026-10-26,C072,Puntarenas,Efectivo,Web,25385.62
+2026-07-10,C112,San José,SINPE Móvil,Tienda,46542.94
+2026-08-29,C090,Puntarenas,Transferencia,WhatsApp,23451.77
+2026-01-09,C084,Cartago,SINPE Móvil,Web,15327.12
+2026-04-12,C072,Cartago,Tarjeta,WhatsApp,45517.66
+2026-09-13,C078,Puntarenas,Efectivo,Tienda,13660.87
+2026-06-03,C089,Puntarenas,Efectivo,WhatsApp,9097.03
+2026-06-18,C055,Limón,Tarjeta,WhatsApp,13330.21
+2026-10-17,C021,Guanacaste,SINPE Móvil,WhatsApp,11025.63
+2026-08-29,C074,Alajuela,Efectivo,Tienda,94774.94
+2026-03-24,C114,Heredia,SINPE Móvil,Web,18330.85
+2026-07-30,C022,Heredia,Efectivo,Tienda,9087.88
+2026-02-08,C082,Puntarenas,SINPE Móvil,Tienda,50040.97
+2026-07-27,C017,Cartago,Tarjeta,Tienda,25904.17
+2026-05-30,C051,Heredia,SINPE Móvil,Web,9154.56
+2026-05-09,C078,Guanacaste,Transferencia,Web,31795.48
+2026-09-20,C017,Limón,SINPE Móvil,Tienda,7454.16
+2026-01-05,C075,Guanacaste,Efectivo,WhatsApp,27931.26
+2026-09-04,C045,Guanacaste,SINPE Móvil,Tienda,2643.5
+2026-04-05,C082,Puntarenas,SINPE Móvil,WhatsApp,13883.88
+2026-03-06,C032,Heredia,Tarjeta,WhatsApp,16296.08
+2026-05-16,C059,Limón,SINPE Móvil,Tienda,21962.25
+2026-11-05,C040,Alajuela,Efectivo,Tienda,11579.89
+2026-06-15,C111,Alajuela,Tarjeta,Tienda,13681.27
+2026-08-23,C083,Heredia,Tarjeta,Web,213379.8
+2026-11-04,C108,Guanacaste,Tarjeta,WhatsApp,15236.82
+2026-01-30,C085,Cartago,Transferencia,Web,43495.7
+2026-04-11,C039,Limón,Tarjeta,Web,19989.53
+2026-11-11,C070,Limón,Transferencia,Web,67745.29
+2026-04-18,C096,Heredia,SINPE Móvil,WhatsApp,79710.39
+2026-05-15,C081,Alajuela,Tarjeta,Web,10070.41
+2026-08-06,C004,San José,Tarjeta,Tienda,48809.66
+2026-11-07,C052,Cartago,SINPE Móvil,Tienda,4316.86
+2026-10-16,C054,Guanacaste,Efectivo,Web,13665.1
+2026-05-22,C120,Alajuela,Efectivo,Web,13318.73
+2026-02-08,C030,Cartago,SINPE Móvil,WhatsApp,24093.25
+2026-04-07,C120,Alajuela,Efectivo,Web,49748.8
+2026-06-15,C045,Guanacaste,Efectivo,Web,10983.34
+2026-10-23,C058,Limón,SINPE Móvil,Tienda,14370.19
+2026-01-25,C107,Alajuela,SINPE Móvil,WhatsApp,17763.33
+2026-03-07,C075,Alajuela,Efectivo,Web,20130.84
+2026-03-16,C073,Limón,Efectivo,Tienda,6608.43
+2026-11-11,C048,Guanacaste,Tarjeta,Web,11173.72
+2026-06-26,C090,Puntarenas,Tarjeta,Tienda,19220.9
+2026-01-17,C003,Cartago,Transferencia,WhatsApp,50572.81
+2026-07-10,C107,Cartago,Transferencia,Web,17932.89
+2026-04-20,C066,Heredia,Tarjeta,WhatsApp,18735.08
+2026-07-17,C024,Puntarenas,Efectivo,WhatsApp,25767.68
+2026-03-23,C086,Limón,SINPE Móvil,Web,26824.42
+2026-02-06,C111,Limón,Tarjeta,Tienda,26110.52
+2026-01-20,C119,Alajuela,SINPE Móvil,Tienda,19821.9
+2026-09-02,C024,Heredia,Efectivo,WhatsApp,62353.12
+2026-05-26,C026,Heredia,Transferencia,WhatsApp,16347.27
+2026-05-26,C115,Heredia,Transferencia,WhatsApp,20200.27
+2026-04-25,C082,Cartago,Efectivo,Web,49436.29
+2026-07-24,C074,Puntarenas,Transferencia,Tienda,38821.15
+2026-09-02,C051,Cartago,SINPE Móvil,WhatsApp,3184.48
+2026-04-16,C104,San José,Tarjeta,WhatsApp,66737.16
+2026-05-09,C044,Alajuela,Tarjeta,Tienda,33756.61
+2026-05-10,C085,Puntarenas,SINPE Móvil,Tienda,25228.88
+2026-08-02,C067,Alajuela,Efectivo,Tienda,23531.56
+2026-06-10,C083,Heredia,Efectivo,Tienda,47477.51
+2026-07-07,C109,Limón,Tarjeta,WhatsApp,18158.13
+2026-09-16,C059,Alajuela,Transferencia,Web,31678.25
+2026-02-10,C063,San José,SINPE Móvil,Web,8661.01
+2026-07-16,C008,Alajuela,SINPE Móvil,Tienda,19378.97
+2026-06-24,C037,San José,SINPE Móvil,Tienda,10520.23
+2026-11-01,C100,Cartago,Efectivo,Tienda,20237.39
+2026-08-07,C068,Puntarenas,SINPE Móvil,WhatsApp,15888.94
+2026-10-17,C023,Limón,Transferencia,WhatsApp,14511.49
+2026-04-21,C113,Puntarenas,Tarjeta,Web,53745.62
+2026-02-03,C058,Alajuela,Tarjeta,Tienda,22972.09
+2026-02-16,C090,Alajuela,SINPE Móvil,Tienda,16677.5
+2026-07-20,C066,Guanacaste,Tarjeta,Tienda,6644.47
+2026-03-01,C064,Cartago,Transferencia,Web,15701.49
+2026-05-16,C077,Heredia,Transferencia,WhatsApp,59024.98
+2026-02-05,C048,Guanacaste,Transferencia,Web,18736.88
+2026-04-14,C048,Alajuela,Transferencia,Web,9745.31
+2026-10-07,C033,Puntarenas,SINPE Móvil,Tienda,32809.75
+2026-01-02,C086,San José,SINPE Móvil,Tienda,7905.2
+2026-03-13,C049,Heredia,Efectivo,Web,20967.92
+2026-07-14,C019,San José,SINPE Móvil,Tienda,22428.83
+2026-06-20,C074,Puntarenas,Tarjeta,WhatsApp,18786.59
+2026-01-07,C084,Heredia,Efectivo,WhatsApp,1208.83
+2026-10-28,C003,Limón,Tarjeta,WhatsApp,5054.23
+2026-08-02,C003,Puntarenas,SINPE Móvil,WhatsApp,26414.98
+2026-04-01,C118,Limón,Tarjeta,Tienda,24529.48
+2026-03-03,C094,Puntarenas,Efectivo,Tienda,42496.52
+2026-02-26,C040,Guanacaste,SINPE Móvil,Tienda,7701.96
+2026-01-03,C019,Guanacaste,Transferencia,Web,21965.35
+2026-07-02,C072,Guanacaste,Efectivo,WhatsApp,53115.2
+2026-07-11,C031,Cartago,Transferencia,Web,7987.04
+2026-06-21,C013,Cartago,Tarjeta,WhatsApp,42844.95
+2026-10-08,C088,Heredia,Transferencia,WhatsApp,14533.09
+2026-10-30,C023,Limón,Tarjeta,WhatsApp,25325.13
+2026-06-02,C062,Guanacaste,Efectivo,Web,137961.91
+2026-09-25,C032,Limón,SINPE Móvil,Web,43229.48
+2026-10-23,C041,Cartago,Efectivo,Tienda,25535.64
+2026-03-26,C064,Limón,Efectivo,WhatsApp,29139.75
+2026-11-03,C112,San José,Transferencia,Web,32910.31
+2026-10-02,C010,Guanacaste,SINPE Móvil,Tienda,46139.29
+2026-07-01,C019,Alajuela,SINPE Móvil,Tienda,47886.39
+2026-04-15,C076,Heredia,Tarjeta,WhatsApp,27715.75
+2026-07-30,C059,Alajuela,Tarjeta,Web,36377.39
+2026-08-03,C115,Guanacaste,Transferencia,Tienda,22344.22
+2026-02-20,C075,San José,Transferencia,Tienda,68966.87
+2026-01-07,C018,Cartago,Efectivo,Tienda,2763.14
+2026-09-08,C057,Limón,Transferencia,WhatsApp,21522.69
+2026-05-14,C074,San José,Efectivo,Web,5531.46
+2026-07-18,C113,Alajuela,Transferencia,Web,27215.19
+2026-04-06,C024,Guanacaste,Transferencia,Tienda,58399.59
+2026-05-30,C092,Alajuela,SINPE Móvil,Web,17804.77
+2026-04-19,C014,Puntarenas,Transferencia,Tienda,7934.04
+2026-03-01,C050,Heredia,SINPE Móvil,Tienda,23777.39
+2026-04-26,C062,Cartago,Tarjeta,Tienda,11791.61
+2026-06-13,C030,Alajuela,Tarjeta,Web,17927.1
+2026-05-20,C006,Guanacaste,Efectivo,WhatsApp,12015.96
+2026-05-25,C018,Puntarenas,Efectivo,Tienda,36819.22
+2026-10-14,C007,Puntarenas,Efectivo,Tienda,40654.27
+2026-04-09,C009,San José,SINPE Móvil,WhatsApp,41781.63
+2026-04-11,C007,Heredia,SINPE Móvil,Tienda,42541.52
+2026-05-05,C083,Heredia,Efectivo,WhatsApp,29035.05
+2026-10-17,C108,Heredia,Transferencia,WhatsApp,49430.63
+2026-03-06,C098,Puntarenas,SINPE Móvil,Web,18239.25
+2026-03-01,C118,Guanacaste,SINPE Móvil,WhatsApp,21151.28
+2026-01-31,C042,Cartago,SINPE Móvil,Web,40659.79
+2026-02-27,C051,Limón,Tarjeta,Tienda,84811.07
+2026-05-17,C032,Guanacaste,Transferencia,Web,6568.52
+2026-02-11,C083,Limón,Transferencia,Tienda,41606.84
+2026-01-10,C080,San José,Efectivo,WhatsApp,98826.76
+2026-05-17,C074,Puntarenas,SINPE Móvil,WhatsApp,34860.2
+2026-11-14,C050,San José,Transferencia,Tienda,14761.12
+2026-08-31,C026,San José,Efectivo,WhatsApp,79980.4
+2026-07-17,C083,Cartago,Tarjeta,Tienda,32949.61
+2026-05-10,C020,Cartago,Transferencia,Tienda,20005.52
+2026-04-06,C078,Heredia,Transferencia,WhatsApp,1239.59
+2026-02-05,C082,Heredia,Transferencia,Tienda,20099.56
+2026-03-20,C085,Limón,SINPE Móvil,Web,23265.78
+2026-10-24,C118,Cartago,Efectivo,WhatsApp,35249.7
+2026-05-31,C064,San José,Efectivo,WhatsApp,9356.64
+2026-01-22,C055,Cartago,Tarjeta,WhatsApp,21527.69
+2026-08-09,C022,Heredia,Efectivo,Web,32646.95
+2026-11-10,C061,Cartago,Efectivo,WhatsApp,190866.85
+2026-04-28,C117,San José,Tarjeta,Web,47330.32
+2026-04-20,C056,Guanacaste,SINPE Móvil,Tienda,74427.88
+2026-03-16,C097,Cartago,SINPE Móvil,Tienda,26916.54
+2026-05-03,C110,Heredia,SINPE Móvil,WhatsApp,14248.47
+2026-09-26,C008,Guanacaste,Efectivo,Web,21010.95
+2026-08-29,C028,Alajuela,SINPE Móvil,Web,156879.94
+2026-10-26,C001,Guanacaste,Transferencia,WhatsApp,15713.0
+2026-02-26,C076,Heredia,SINPE Móvil,Web,29471.39
+2026-05-26,C100,Heredia,Transferencia,WhatsApp,7471.29
+2026-03-20,C007,Puntarenas,Tarjeta,Tienda,63842.14
+2026-03-18,C023,Limón,SINPE Móvil,WhatsApp,14560.45
+2026-02-26,C033,San José,SINPE Móvil,Tienda,29322.35
+2026-10-07,C019,San José,SINPE Móvil,Web,6658.43
+2026-08-19,C078,Limón,Efectivo,WhatsApp,18833.8
+2026-09-18,C116,Limón,SINPE Móvil,Tienda,12340.07
+2026-01-12,C062,Alajuela,Transferencia,Web,6461.09
+2026-03-17,C105,Heredia,SINPE Móvil,Tienda,15995.29
+2026-01-03,C089,San José,Efectivo,WhatsApp,65334.94
+2026-05-08,C080,Limón,SINPE Móvil,Tienda,28143.65
+2026-06-21,C094,Heredia,Transferencia,Web,34223.91
+2026-06-05,C048,Alajuela,SINPE Móvil,Web,5643.72
+2026-03-26,C090,Puntarenas,SINPE Móvil,Web,23913.69
+2026-08-27,C029,Heredia,Efectivo,WhatsApp,18875.72
+2026-06-08,C048,San José,Tarjeta,WhatsApp,38344.34
+2026-07-01,C037,Heredia,SINPE Móvil,WhatsApp,24604.21
+2026-10-22,C074,Guanacaste,Tarjeta,Tienda,38530.08
+2026-01-29,C108,Heredia,Efectivo,Web,17052.84
+2026-07-19,C057,Limón,Tarjeta,WhatsApp,40303.94
+2026-06-26,C091,Limón,Transferencia,WhatsApp,25970.06
+2026-10-25,C046,Puntarenas,Tarjeta,Web,20285.01
+2026-05-28,C100,Limón,Transferencia,Web,20563.15
+2026-07-11,C106,Guanacaste,SINPE Móvil,Web,10671.9
+2026-09-27,C022,San José,Tarjeta,WhatsApp,159537.06
+2026-11-17,C002,Cartago,Efectivo,Web,11261.13
+2026-01-17,C032,Limón,Efectivo,Tienda,33833.64
+2026-06-13,C080,Alajuela,Efectivo,Tienda,27024.01
+2026-06-12,C112,Cartago,Efectivo,Tienda,25169.71
+2026-08-05,C037,San José,SINPE Móvil,Tienda,33637.04
+2026-10-02,C093,Guanacaste,Transferencia,Web,10656.42
+2026-08-10,C057,Cartago,Tarjeta,WhatsApp,60942.84
+2026-04-08,C015,Cartago,SINPE Móvil,WhatsApp,74790.68
+2026-07-04,C088,Cartago,Transferencia,Web,20015.43
+2026-06-01,C076,Cartago,Efectivo,Web,4009.33
+2026-09-29,C093,Cartago,SINPE Móvil,Web,34998.87
+2026-08-08,C110,Guanacaste,Tarjeta,Tienda,26732.09
+2026-08-23,C012,San José,SINPE Móvil,Web,16740.53
+2026-01-06,C081,Cartago,SINPE Móvil,Web,27032.1
+2026-06-03,C006,Alajuela,Tarjeta,Web,59969.49
+2026-08-27,C047,Cartago,Efectivo,Tienda,16875.18
+2026-03-20,C105,San José,Tarjeta,Web,49918.14
+2026-09-22,C034,Puntarenas,Efectivo,Tienda,5324.89
+2026-08-31,C011,Limón,SINPE Móvil,Tienda,26165.67
+2026-05-03,C046,Alajuela,Tarjeta,Tienda,15730.85
+2026-04-21,C057,Cartago,Tarjeta,Web,13427.52
+2026-05-26,C024,Limón,Transferencia,Web,5648.2
+2026-09-09,C046,Alajuela,Efectivo,WhatsApp,17648.42
+2026-04-19,C100,Heredia,Efectivo,Web,29967.06
+2026-04-26,C045,Puntarenas,Tarjeta,WhatsApp,44588.6
+2026-07-31,C101,Puntarenas,Efectivo,Web,41905.48
+2026-05-23,C098,Alajuela,Transferencia,WhatsApp,14900.21
+2026-01-18,C099,Guanacaste,Efectivo,Tienda,24786.55
+2026-01-31,C033,Puntarenas,Transferencia,WhatsApp,40389.04
+2026-10-06,C119,Guanacaste,SINPE Móvil,Tienda,20359.63
+2026-10-14,C055,San José,Efectivo,Tienda,16217.88
+2026-08-02,C104,Cartago,SINPE Móvil,Web,45934.37
+2026-06-28,C011,Puntarenas,Transferencia,Tienda,42099.96
+2026-06-29,C114,San José,Efectivo,Tienda,14045.27
+2026-04-15,C016,Guanacaste,Efectivo,WhatsApp,47467.7
+2026-01-06,C040,Limón,Transferencia,Tienda,14963.91
+2026-09-02,C081,Puntarenas,Transferencia,Web,5402.61
+2026-03-08,C083,Alajuela,Transferencia,Web,50596.71
+2026-01-27,C088,Puntarenas,Transferencia,Web,75768.64
+2026-01-22,C084,Heredia,Tarjeta,Tienda,122360.15
+2026-07-17,C076,Puntarenas,Efectivo,Web,25601.09
+2026-02-20,C004,San José,Transferencia,Web,25772.91
+2026-05-01,C068,Heredia,Transferencia,Web,28996.95
+2026-06-03,C007,Heredia,Efectivo,WhatsApp,13609.32
+2026-05-10,C111,Guanacaste,Efectivo,Tienda,14656.62
+2026-03-23,C054,Guanacaste,Transferencia,Tienda,7471.17
+2026-08-11,C009,Puntarenas,Tarjeta,WhatsApp,21847.76
+2026-03-31,C116,Alajuela,Efectivo,WhatsApp,30508.58
+2026-11-03,C098,Cartago,Tarjeta,Web,13321.69
+2026-10-07,C110,Guanacaste,Transferencia,Web,24235.68
+2026-04-01,C112,Limón,SINPE Móvil,Tienda,6447.18
+2026-02-03,C010,Puntarenas,Efectivo,Tienda,11766.88
+2026-03-19,C109,Puntarenas,SINPE Móvil,Web,20668.35
+2026-03-20,C076,Heredia,SINPE Móvil,Web,20226.41
+2026-01-21,C008,Limón,SINPE Móvil,WhatsApp,6861.5
+2026-03-09,C098,Guanacaste,Transferencia,Tienda,27241.88
+2026-02-14,C026,Cartago,Efectivo,Tienda,5645.39
+2026-06-17,C021,Alajuela,Transferencia,Web,11926.17
+2026-06-02,C113,Alajuela,SINPE Móvil,Web,97670.47
+2026-05-24,C053,San José,SINPE Móvil,WhatsApp,10880.44
+2026-01-02,C002,Puntarenas,Transferencia,Web,9631.1
+2026-10-11,C031,Puntarenas,Tarjeta,Tienda,8841.49
+2026-06-07,C105,San José,Tarjeta,Web,51933.2
+2026-06-16,C058,San José,Transferencia,Tienda,38436.46
+2026-01-29,C083,Cartago,Tarjeta,Web,42958.58
+2026-02-20,C066,Puntarenas,Efectivo,Web,19792.05
+2026-07-16,C039,Heredia,Transferencia,Web,35825.54
+2026-07-14,C076,Puntarenas,Transferencia,Web,38364.49
+2026-03-04,C029,San José,Transferencia,Web,12221.3
+2026-09-06,C084,Guanacaste,Tarjeta,Web,40936.39
+2026-10-18,C075,Limón,Efectivo,WhatsApp,7014.82
+2026-04-24,C117,Cartago,Efectivo,Tienda,11763.35
+2026-03-31,C096,San José,Tarjeta,WhatsApp,19983.29
+2026-11-11,C025,Limón,Transferencia,Tienda,16038.93
+2026-08-04,C071,Guanacaste,Tarjeta,WhatsApp,8324.76
+2026-10-06,C120,Puntarenas,Transferencia,Tienda,42275.02
+2026-08-20,C008,Cartago,Efectivo,Tienda,27552.98
+2026-08-08,C034,Puntarenas,Transferencia,WhatsApp,25190.18
+2026-02-11,C042,Cartago,SINPE Móvil,Tienda,8955.7
+2026-04-19,C085,Alajuela,Transferencia,WhatsApp,29725.41
+2026-03-05,C027,San José,Efectivo,Web,29720.67
+2026-06-05,C086,Heredia,SINPE Móvil,Web,14510.6
+2026-03-02,C002,Puntarenas,Tarjeta,WhatsApp,16939.35
+2026-08-22,C080,Guanacaste,Efectivo,WhatsApp,9689.31
+2026-06-02,C029,Puntarenas,Transferencia,Web,43462.05
+2026-03-14,C023,Heredia,Transferencia,WhatsApp,20973.55
+2026-01-06,C108,Guanacaste,Efectivo,Web,13528.0
+2026-07-05,C064,Guanacaste,Tarjeta,Tienda,20124.59
+2026-05-15,C090,Heredia,SINPE Móvil,Web,23451.71
+2026-09-09,C051,Puntarenas,SINPE Móvil,Web,52068.88
+2026-08-01,C094,Heredia,Efectivo,WhatsApp,16144.24
+2026-01-04,C012,Heredia,Efectivo,WhatsApp,10947.91
+2026-11-06,C063,Cartago,Transferencia,WhatsApp,10562.87
+2026-08-15,C116,Heredia,Tarjeta,WhatsApp,59117.9
+2026-08-27,C023,Heredia,SINPE Móvil,Tienda,6565.69
+2026-03-14,C026,Guanacaste,Transferencia,Tienda,41029.71
+2026-09-05,C034,Alajuela,SINPE Móvil,WhatsApp,14033.24
+2026-09-19,C017,Limón,Efectivo,Tienda,22795.95
+2026-05-01,C032,Heredia,Efectivo,Tienda,31637.96
+2026-03-05,C043,Puntarenas,Efectivo,WhatsApp,25868.7
+2026-03-15,C035,Cartago,Efectivo,Web,9280.06
+2026-07-04,C005,Alajuela,SINPE Móvil,WhatsApp,28950.89
+2026-02-23,C116,Alajuela,Transferencia,WhatsApp,17419.94
+2026-11-09,C031,Heredia,Tarjeta,Web,52057.85
+2026-01-21,C048,Heredia,Tarjeta,Web,51547.98
+2026-05-10,C005,Puntarenas,Transferencia,Tienda,26115.94
+2026-03-27,C099,Guanacaste,SINPE Móvil,Web,86609.68
+2026-09-07,C100,Cartago,Efectivo,WhatsApp,30304.98
+2026-01-27,C050,Alajuela,Tarjeta,Tienda,15962.92
+2026-01-31,C088,Limón,Transferencia,Tienda,8462.71
+2026-06-06,C111,Heredia,Tarjeta,Web,19521.88
+2026-01-04,C109,Cartago,Tarjeta,Web,63595.29
+2026-05-25,C072,Cartago,Efectivo,Web,23179.79
+2026-11-17,C050,Heredia,Tarjeta,WhatsApp,14053.55
+2026-01-19,C094,Limón,Efectivo,WhatsApp,5287.65
+2026-08-31,C073,San José,Efectivo,WhatsApp,36815.08
+2026-07-08,C102,Guanacaste,Efectivo,WhatsApp,15552.98
+2026-07-30,C036,Heredia,Tarjeta,Tienda,25544.39
+2026-06-18,C040,Cartago,SINPE Móvil,WhatsApp,53034.99
+2026-03-14,C016,San José,Tarjeta,Web,6377.61
+2026-10-14,C106,Limón,Efectivo,Web,31993.1
+2026-05-04,C062,Heredia,Tarjeta,WhatsApp,15448.9
+2026-10-19,C008,Puntarenas,SINPE Móvil,WhatsApp,25099.14
+2026-10-31,C076,Guanacaste,Tarjeta,Web,23350.42
+2026-03-22,C067,Cartago,Transferencia,Web,7024.05
+2026-02-16,C011,San José,SINPE Móvil,Web,22671.67
+2026-05-07,C022,San José,Transferencia,Tienda,60904.31
+2026-04-26,C099,Guanacaste,SINPE Móvil,WhatsApp,16100.19
+2026-06-12,C013,Cartago,Tarjeta,Tienda,25574.01
+2026-08-10,C101,Limón,Tarjeta,Tienda,33692.4
+2026-03-04,C112,Alajuela,Transferencia,Tienda,4140.02
+2026-03-09,C021,Alajuela,Efectivo,WhatsApp,33289.24
+2026-11-16,C080,Cartago,Efectivo,WhatsApp,2257.57
+2026-06-08,C097,San José,Tarjeta,Web,4949.33
+2026-07-28,C052,Cartago,Transferencia,Web,22972.35
+2026-05-03,C032,Cartago,SINPE Móvil,Tienda,26944.02
+2026-07-03,C071,Alajuela,Tarjeta,Web,23767.28
+2026-07-23,C083,San José,Transferencia,Tienda,16044.15
+2026-07-20,C091,Limón,Tarjeta,Web,34208.59
+2026-02-05,C050,Puntarenas,SINPE Móvil,Web,22733.39
+2026-06-14,C038,San José,Efectivo,Tienda,8495.01
+2026-01-22,C107,Guanacaste,Tarjeta,WhatsApp,13017.71
+2026-05-09,C003,Guanacaste,Transferencia,Web,63230.36
+2026-04-17,C054,Guanacaste,SINPE Móvil,Web,12718.64
+2026-04-26,C073,Guanacaste,Tarjeta,WhatsApp,24395.76
+2026-08-14,C115,Puntarenas,SINPE Móvil,Web,10567.47
+2026-03-31,C011,Alajuela,Efectivo,Web,7961.51
+2026-01-21,C014,Puntarenas,Tarjeta,WhatsApp,17014.42
+2026-07-10,C043,Heredia,SINPE Móvil,Tienda,10924.31
+2026-03-20,C087,Alajuela,SINPE Móvil,WhatsApp,73446.61
+2026-03-25,C107,Cartago,Tarjeta,Tienda,20243.03
+2026-08-01,C046,Cartago,Efectivo,Web,6011.95
+2026-01-18,C058,Heredia,SINPE Móvil,Tienda,10134.08
+2026-06-29,C088,Heredia,SINPE Móvil,WhatsApp,13227.49
+2026-10-24,C108,Heredia,Tarjeta,Tienda,13295.57
+2026-06-28,C068,Cartago,Transferencia,Web,33532.43
+2026-11-17,C059,Puntarenas,Transferencia,Tienda,11697.34
+2026-01-20,C038,Alajuela,SINPE Móvil,WhatsApp,7935.46
+2026-07-21,C110,Cartago,Transferencia,Web,9381.75
+2026-10-20,C050,Alajuela,Tarjeta,Tienda,38783.9
+2026-06-10,C063,Alajuela,Tarjeta,Web,31024.76
+2026-08-30,C104,San José,Efectivo,Web,14273.2
